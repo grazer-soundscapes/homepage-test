@@ -1,5 +1,5 @@
 ---
-title: Künstler
+title: Team
 menu:
   main:
     weight: 60

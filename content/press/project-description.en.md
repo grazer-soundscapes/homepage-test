@@ -11,5 +11,5 @@ draft: false
 
 to be translated
 
-* Grazer Soundsacpes at Radio Helsinki https://helsinki.at/program/shows/grazer-soundscapes
-* Grazer Soundsacpes arvhive https://cba.fro.at/series/grazer-soundscapes
+* Grazer Soundscapes at Radio Helsinki https://helsinki.at/program/shows/grazer-soundscapes
+* Grazer Soundscapes arvhive https://cba.fro.at/series/grazer-soundscapes

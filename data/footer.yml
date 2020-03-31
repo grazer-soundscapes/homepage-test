@@ -32,10 +32,10 @@ content:
       - name: Grazer Soundsacpes auf Radio Helsinki
         url: https://helsinki.at/program/shows/grazer-soundscapes
         newTab: true
-      - name: Grazer Soundsacpes Sendungsarchiv
+      - name: Grazer Soundscapes Sendungsarchiv
         url: https://cba.fro.at/series/grazer-soundscapes
         newTab: true
-      - name: Soundsacpe der Woche
+      - name: Soundscape der Woche
         url: https://cba.fro.at/series/soundscape-der-woche-grazer-soundscapes
         newTab: true
 

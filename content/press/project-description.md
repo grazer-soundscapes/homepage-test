@@ -19,5 +19,5 @@ Die Projektergebnisse sind weiterhin in zwei Sendereihen auf Radio Helsinki 92,6
 
 Helfen Sie mit, ein Klangbild der veränderten Stadt zu erstellen! Wenn Sie Aufnahmen machen oder bereits gemachte schicken wollen, schreiben Sie an: soundscapes2020@helsinki.at.
 
-* Grazer Soundsacpes auf Radio Helsinki https://helsinki.at/program/shows/grazer-soundscapes
-* Grazer Soundsacpes Sendungsarchiv https://cba.fro.at/series/grazer-soundscapes
+* Grazer Soundscapes auf Radio Helsinki https://helsinki.at/program/shows/grazer-soundscapes
+* Grazer Soundscapes Sendungsarchiv https://cba.fro.at/series/grazer-soundscapes

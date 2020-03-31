@@ -4,6 +4,7 @@ title: ELEVATE Festival
 category: platinium
 logo: /images/partners/elevate.png
 website: 'https://elevate.at/'
+draft: true
 lang: en
 socials:
   - icon: twitter

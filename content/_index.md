@@ -26,11 +26,10 @@ menu:
 
 
 
-{{% home-info what="Künstler*innen:9,Veranstaltungen:10,Kooperationen:5,Sendungen:40" class="primary" %}}
-## Soundscapes in Zahlen
+{{% home-info what="Künstler*innen:9,Veranstaltungen:11,Kooperationen:11,Sendungen:69" class="primary" %}}
+## Grazer Soundscapes
 
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
-It is aimed at students, professionals or simply curious technophiles.
+Grazer Soundscapes ist das Projekt von Radio Helsinki im Rahmen von Graz Kulturjahr 2020
 {{% /home-info %}}
 
 <!-- ... 
@@ -71,11 +70,11 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% home-location
     image="/images/map.jpg"
-    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
-    latitude="43.6110956"
-    longitude="1.4332799" %}}
+    address="Graz"
+    latitude="47.07"
+    longitude="15.37" %}}
 
-## The venue
+## Graz
 
 ### Centre de Congrès Pierre Baudis
 

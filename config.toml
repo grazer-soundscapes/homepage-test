@@ -12,21 +12,21 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-#googleAnalytics = ""
+#googleAnalytics = "UA-37717223-8"
 
 [params]
     title = "Grazer Soundscapes 2020"
     date = "2020"
     description = "Sie finden es spannend, den Geräuschen Ihrer Umgebung zu lauschen? Und wie oft haben Sie schon gedacht: Das würde ich gerne einmal aufnehmen und anderen Menschen vorspielen – aber wussten nicht so genau, wie und mit welchen Gerätschaften Sie das anstellen können?"
-    images = ["/images/logos/soundscapes_color.png"]
+    images = ["/images/social-share.jpg"]
     email = "soundscapes2020@helsinki.at"
     keywords = "soundscapes geräusche radio helsinki aufnahmen grätzl graz"
     copyright = "Radio Helsinki"
     #cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
     #subscriptionUrl = "http://eepurl.com/dps1j5"
     appleTouchIcon = "/apple-touch-icon.png"
-    favicon32 = "/favicon.ico"
-    favicon16 = "/favicon-16x16.ico"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#673ab7"
@@ -54,6 +54,13 @@ enableMissingTranslationPlaceholders = true
     weight = 2
     languageName = "gb"
 
+#[languages.fr]
+#    weight = 3
+#    languageName = "fr"
+
+#[languages.fr.params]
+#    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
+
 [taxonomies]
   tag = "tags"
 
@@ -61,20 +68,20 @@ enableMissingTranslationPlaceholders = true
   [privacy.disqus]
     disable = true
   [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
-    respectDoNotTrack = true
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
     useSessionStorage = false
   [privacy.instagram]
     disable = true
     simple = false
   [privacy.twitter]
-    disable = true
+    disable = false
     enableDNT = false
     simple = false
   [privacy.vimeo]
     disable = true
     simple = false
   [privacy.youtube]
-    disable = true
+    disable = false
     privacyEnhanced = false
