@@ -1,0 +1,9 @@
+<a class="visually-hidden" href="{{ .URL }}">{{ .Params.name }}</a>
+<a class="district" href="{{ .URL }}">
+	<div role="presentation" class="district-img" style="background-image: url({{ .Params.photoURL }});"></div>
+	<div class="info">
+		<div class="district-company">{{ .Params.company }}</div>
+		<strong class="district-name">{{ .Params.name }}</strong>
+		<span class="district-country">{{ .Params.city }}</span>
+	</div>
+</a>

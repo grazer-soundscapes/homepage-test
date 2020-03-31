@@ -1,0 +1,46 @@
+#share:
+#  - name: facebook
+#    url: https://www.facebook.com/sharer.php?u=
+#  - name: twitter
+#    url: https://twitter.com/intent/tweet?text=
+
+#follow:
+#  - name: facebook
+#    url: https://www.facebook.com/GDGToulouse/
+#  - name: twitter
+#    url: https://twitter.com/devfesttoulouse
+#  - name: linkedin
+#    url: https://www.linkedin.com/company/devfesttoulouse/
+#  - name: youtube
+#    url: https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg
+
+content:
+  - title: footer_about
+    links:
+#      - name: Google Developers Group
+#        url: https://developers.google.com/
+#        newTab: true
+#      - name: Kit de communication
+#        url: /kit/MediaKit.zip
+#        newTab: false
+      - name: Impressum, Kontakt
+        url: /contact/
+        newTab: false
+
+  - title: footer_previous_edition
+    links:
+      - name: Grazer Soundsacpes auf Radio Helsinki
+        url: https://helsinki.at/program/shows/grazer-soundscapes
+        newTab: true
+      - name: Grazer Soundsacpes Sendungsarchiv
+        url: https://cba.fro.at/series/grazer-soundscapes
+        newTab: true
+      - name: Soundsacpe der Woche
+        url: https://cba.fro.at/series/soundscape-der-woche-grazer-soundscapes
+        newTab: true
+
+#  - title: footer_become_partners
+#    links:
+#      - nameKey: footer_become_partners_label
+#        url: https://docs.google.com/presentation/d/e/2PACX-1vR9oEvhN0eKW6KeMqJzYZt1AtwiO5eyRhWcy6cXfE63vtZzX8U9B8_r2LpO6WIwDWjOoLkf10G7tFGO/pub?start=false&loop=true&delayms=0&slide=id.g376bab0a27_1_7
+#        newTab: true

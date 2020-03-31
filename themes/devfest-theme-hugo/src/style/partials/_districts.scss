@@ -1,0 +1,47 @@
+.districts ul {
+
+  li .district {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+
+    .info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .district-img {
+      --size: 8rem;
+      height: var(--size, 8rem);
+      min-width: var(--size, 8rem);
+      border-radius: 100%;
+      background-size: cover;
+      margin: var(--space-2);
+    }
+
+    .district-company {
+      img {
+        max-height: 2rem;
+        margin: var(--space-1);
+      }
+      figcaption {
+        display: none;
+      }
+    }
+
+    .district-name {
+      font-weight: 600;
+      margin: var(--space-1);
+    }
+
+    .district-company {
+      font-weight: 200;
+      opacity: .8;
+      margin: var(--space-1);
+    }
+
+  }
+}

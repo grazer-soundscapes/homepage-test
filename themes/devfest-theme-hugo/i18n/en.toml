@@ -1,0 +1,84 @@
+##########
+# Header #
+##########
+
+[language_switch]
+other = "Basculer en"
+
+########
+# Home #
+########
+
+[home_tickets_action]
+other = "Buy Ticket"
+
+[home_tickets_soldout]
+other = "Sold Out"
+
+[home_tickets_close]
+other = "Not available"
+
+[home_location_direction]
+other = "Direction"
+
+##########
+# Footer #
+##########
+
+[footer_share]
+#other = "Share"
+other = " "
+
+[facebook_share_label]
+#other = "Share on Facebook"
+other = " "
+
+[twitter_share_text]
+#other = "Come join us at @DevFestToulouse the unavoidable conference for Software developers in Toulouse, France #DevFestToulouse"
+other = " "
+
+[twitter_share_label]
+#other = "Share on Twitter"
+other = " "
+
+[footer_follow_blog]
+#other = "Follow our"
+other = " "
+
+[footer_follow_blog_blog]
+#other = "blog"
+other = " "
+
+[footer_follow_us]
+#other = "Follow us"
+other = " "
+
+[footer_about]
+other = "About"
+
+[footer_previous_edition]
+other = "Grazer Soundscapes at"
+
+[footer_become_partners]
+#other = "Become partner"
+other = " "
+
+[footer_become_partners_label]
+#other = "Partnership Proposition"
+other = " "
+
+[footer_coc]
+#other = "Code of Conduct"
+other = " "
+
+################
+# Subscription #
+################
+[newsletter]
+other = "Newsletter"
+
+[subscribe_notice]
+other = "No spam, only the latest news and updates!"
+
+[subscribe_action]
+other = "Subscribe"

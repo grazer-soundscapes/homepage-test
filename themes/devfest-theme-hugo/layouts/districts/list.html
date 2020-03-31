@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+<section>
+	<ul class="districts shuffle">
+		{{ $districts := where .Site.AllPages ".Section" "districts" }}
+		{{ range where $districts ".Kind" "page" }}
+		<li>{{ partial "district.html" . }}</li>
+		{{ end }}
+	</ul>
+</section>
+
+{{ end }}

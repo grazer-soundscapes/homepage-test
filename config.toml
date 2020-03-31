@@ -1,0 +1,80 @@
+baseURL = "http://soundscapes.ajs.at"
+languageCode = "de"
+DefaultContentLanguage = "de"
+title = "Grazer Soundscapes 2020"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+#googleAnalytics = ""
+
+[params]
+    title = "Grazer Soundscapes 2020"
+    date = "2020"
+    description = "Sie finden es spannend, den Geräuschen Ihrer Umgebung zu lauschen? Und wie oft haben Sie schon gedacht: Das würde ich gerne einmal aufnehmen und anderen Menschen vorspielen – aber wussten nicht so genau, wie und mit welchen Gerätschaften Sie das anstellen können?"
+    images = ["/images/logos/soundscapes_color.png"]
+    email = "soundscapes2020@helsinki.at"
+    keywords = "soundscapes geräusche radio helsinki aufnahmen grätzl graz"
+    copyright = "Radio Helsinki"
+    #cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+    #subscriptionUrl = "http://eepurl.com/dps1j5"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon.ico"
+    favicon16 = "/favicon-16x16.ico"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+    #googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
+
+[params.logos]
+    jumbo = "/images/logos/soundscapes_color.png"
+    header = "/images/logos/soundscapes_color.png"
+    footer = "/images/logos/soundscapes_bw.png"
+
+#[menu]
+#[[menu.main]]
+#    identifier = "radiohelsinki"
+#    name = "Radio Helsinki"
+#    url = "https://helsinki.at/"
+#    weight = 200
+#    external = true
+
+[languages]
+[languages.de]
+    weight = 1
+    languageName = "de"
+
+[languages.en]
+    weight = 2
+    languageName = "gb"
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = true
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = true
+    privacyEnhanced = false

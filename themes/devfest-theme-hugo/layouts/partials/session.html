@@ -1,0 +1,63 @@
+<a href="{{ .URL }}">
+
+<h2>
+	{{ .Title }}
+	<span class="language {{ anchorize .Params.language }}"></span>
+</h2>
+
+<hr>
+
+<div class="info">
+	{{ if .Params.description }}
+	<span>{{ .Params.description }}</span>
+	{{ end }}
+	{{ if.Params.tags }}
+	<div class="tags">
+		{{ range .Params.tags }}
+			{{ range first 1 (where $.Site.Data.categories "key" .) }}
+			<span>{{ .name }}</span>
+		  {{ end }}
+		{{ end }}
+	</div>
+	{{ end }}
+<!--
+	<div class="complexity">{{ .Params.level }}</div>
+	<div class="type type-{{ anchorize .Params.format }}">{{ .Params.format }}</div>
+-->
+	<div>
+		{{ if .Params.presentation }}
+		<div class="presentation">{{ partial "icon.html" "slides" }}</div>
+		{{ end }}
+		{{ if .Params.videoId }}
+		<div class="video">{{ partial "icon.html" "youtube" }}</div>
+		{{ end }}
+		{{ if .Params.cbaId }}
+		<div class="video">{{ partial "icon.html" "audio" }}</div>
+		{{ end }}
+	</div>
+</div>
+
+
+<ul class="speakers">
+	{{ range where .Site.RegularPages "Params.key" "in" .Params.speakers }}
+	<li class="speaker">
+		<div class="speaker-img" style="background-image: url({{ .Params.photoURL }});"></div>
+		<strong class="speaker-name">{{ .Params.name }}</strong>
+		<span class="speaker-country">{{ .Params.country }}</span>
+		<div class="speaker-company">{{ .Params.company }}</div>
+	</li>
+	{{ end }}
+</ul>
+
+<ul class="districts">
+	{{ range where .Site.RegularPages "Params.key" "in" .Params.districts }}
+	<li class="district">
+		<div class="district-img" style="background-image: url({{ .Params.photoURL }});"></div>
+		<strong class="district-name">{{ .Params.name }}</strong>
+		<span class="district-country">{{ .Params.country }}</span>
+		<div class="district-company">{{ .Params.company }}</div>
+	</li>
+	{{ end }}
+</ul>
+
+</a>

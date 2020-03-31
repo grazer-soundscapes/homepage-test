@@ -1,0 +1,82 @@
+##########
+# Header #
+##########
+
+[language_switch]
+other = "wechsle zu deutsch"
+
+########
+# Home #
+########
+
+[home_tickets_action]
+other = "Ticket kaufen"
+
+[home_tickets_soldout]
+other = "Ausverkauft"
+
+[home_tickets_close]
+other = "Nich verfügbar"
+
+[home_location_direction]
+other = "Route"
+
+##########
+# Footer #
+##########
+
+[footer_share]
+#other = "teilen"
+other = " "
+
+[facebook_share_label]
+#other = "auf Facebook teilen"
+other = " "
+
+[twitter_share_text]
+#other = ""
+other = " "
+
+[twitter_share_label]
+#other = "auf Twitter teilen"
+other = " "
+
+[footer_follow_blog]
+#other = "folge unserem"
+other = " "
+
+[footer_follow_blog_blog]
+#other = "Blog"
+other = " "
+
+[footer_follow_us]
+#other = "Folge uns"
+other = " "
+
+[footer_about]
+other = "Über uns"
+
+[footer_previous_edition]
+other = "Grazer Soundscapes auf..."
+
+[footer_become_partners]
+other = "werde Partner"
+
+[footer_become_partners_label]
+other = "Partnership Proposition"
+
+[footer_coc]
+other = "Code of Conduct"
+
+
+################
+# Subscription #
+################
+[newsletter]
+other = "Newsletter"
+
+[subscribe_notice]
+other = "Kein Spam, nur Info über Neuigkeiten"
+
+[subscribe_action]
+other = "eintragen"
