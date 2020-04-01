@@ -2,10 +2,13 @@
 key: tobias_dankl
 name: Tobias Dankl
 feature: true
-city: 'Graz, AT'
-photoURL: /images/artists/tobias_dankl.png
+city: 
+photoURL: /images/artists/tobias_dankl.jpg
 socials:
-  - icon: twitter
-    link: 'https://twitter.com/ttttttt'
+  - icon: facebook
+    link: 'https://www.facebook.com/tobias.dankl'
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. - [http://www.christian-faure.net/](http://www.christian-faure.net/)
+geb.: 1988 in Tirol
+Musiker, Klanggestalter, Sozialarbeiter 
+
+Tobias Dankl ist Produzent und Musiker im Bereich der elektro-akustischen Musik. Seine Faszination für, und die Beschäftigung mit Field Recordings, teilt er mit dem Radiokunst-Kollektiv „Radia“. Die Verknüpfung von elektro-akustischen Instrumenten und künstlichen Klangwelten wird kompositorisch in verschiedenen Musikprojekten (Olgas Boris, The Sir Teens, Evoilà) zum Ausdruck gebracht. Nach Studienjahren in Graz (Musikwissenschaft, Klangpädagogik, Klassische Gitarre), lebt und arbeitet er seit 2018 in Wien.

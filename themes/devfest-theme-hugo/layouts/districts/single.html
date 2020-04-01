@@ -6,9 +6,6 @@
 		<div class="district-img" style="background-image: url({{ .Page.Params.photoURL }});"></div>
 		<div>
 			<h1>{{ .Page.Params.name }}</h1>
-			{{ if .Params.website }}
-			<a href="{{ .Params.website }}">{{ .Params.website }}</a>
-			{{ end }}
 
 			<ul class="socials">
 				{{ range .Page.Params.socials }}
@@ -59,6 +56,5 @@
 	</div>
 
 </section>
-
 
 {{ end }}

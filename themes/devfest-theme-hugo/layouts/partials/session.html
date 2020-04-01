@@ -49,15 +49,5 @@
 	{{ end }}
 </ul>
 
-<ul class="districts">
-	{{ range where .Site.RegularPages "Params.key" "in" .Params.districts }}
-	<li class="district">
-		<div class="district-img" style="background-image: url({{ .Params.photoURL }});"></div>
-		<strong class="district-name">{{ .Params.name }}</strong>
-		<span class="district-country">{{ .Params.country }}</span>
-		<div class="district-company">{{ .Params.company }}</div>
-	</li>
-	{{ end }}
-</ul>
 
 </a>
