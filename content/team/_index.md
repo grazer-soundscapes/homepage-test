@@ -1,9 +1,9 @@
 ---
-title: Teamold
+title: Team
 type: team
 menu:
   main:
-    weight: 61
+    weight: 60
 
 draft: true
 

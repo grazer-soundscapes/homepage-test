@@ -2,7 +2,7 @@
 title: Jürgen Schweizer
 type: rh
 subtitle: Technik
-photo: juergen_schweizer.jpg
+photo: juergen_schweizer.png
 socials:
   - link: 'https://twitter.com/mpailloncy'
     name: Twitter
