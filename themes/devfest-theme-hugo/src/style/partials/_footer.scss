@@ -104,6 +104,11 @@ body > footer {
         margin-bottom: var(--space-2);
       }
 
+      img {
+        height: 5rem;
+        width: auto;
+      }
+
       ul {
         display: flex;
         flex-direction: column;

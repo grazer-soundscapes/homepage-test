@@ -14,8 +14,8 @@
   }
 
   .content {
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--primary);
+    a, h1, h2, h3, h4, h5, h6 {
+      color: var(--primary-txt);
     }
 
     h3, h4, h5, h6, & > ul, & > ol, & > p {
@@ -24,11 +24,16 @@
 
     li {
       line-height: 1.5;
+      color: var(--primary-txt);
     }
 
     ul {
       @include mq($until: md) {
         padding-left: 2ch;
+      }
+
+    a {
+      color: var(--primary-txt);
       }
     }
 

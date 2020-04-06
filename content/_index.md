@@ -8,11 +8,11 @@ menu:
 
 ---
 
+{{% jumbo img="/images/backgrounds/back-animated-waves.gif" imgLabel="Grazer Soundscapes" %}}
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
-
-## jetzt ohne oktober
-### deutsch
+## GRAZER SOUNDSCAPES
+### DAS PROJEKT VON RADIO HELSINKI
+### IM RAHMEN VON GRAZ KULTURJAHR 2020
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 

@@ -1,11 +1,15 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 {{ $imgLabel := .Get "imgLabel" }}
 {{ $logo := .Site.Params.logos.jumbo }}
+{{ $headline := .Site.Params.headline }}
 <div class="jumbo">
 	<div class="jumbo-cover" style="background-image: url('{{ .Get "img" }}')" {{ if $imgLabel }}aria-label="{{ $imgLabel }}"{{ end }}></div>
 	<img id="jumbo-img" src="{{ .Get "img" }}" />
 	<div id="jumbo-overlay"></div>
 	<div class="inner-wrapper">
+<!--
+                <h1>{{ $headline }}</h1>
+-->
 		{{ if $logo }}
 		<img class="jumbo-logo" src="{{ $logo }}" alt="logo {{ .Site.Title }}">
 		{{ end }}

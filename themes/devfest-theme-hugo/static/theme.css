@@ -1,7 +1,7 @@
 @charset "UTF-8";
 :root {
-  --primary: rgba(110, 120, 240, .9);
-  --primary-txt: #000000;
+  --primary: rgba(247, 236, 103, .9);
+  --primary-txt: #C51623;
   --accent: grey;
   --accent-txt: #fff;
   --base: #FFF;
@@ -355,6 +355,9 @@ body > footer {
         font-size: 1.125rem;
         font-weight: 600;
         margin-bottom: var(--space-2); }
+      body > footer .footer-content section img {
+        height: 5rem;
+        width: auto; }
       body > footer .footer-content section ul {
         display: flex;
         flex-direction: column;
@@ -1967,7 +1970,7 @@ form input {
   min-height: 45vmin; }
 
 .page.blog .hero h1 {
-  color: var(--primary);
+  color: var(--primary-txt);
   padding-left: 0;
   padding-right: 0; }
   .page.blog .hero h1 small {
@@ -1990,7 +1993,7 @@ form input {
     text-align: center;
     margin: var(--space-3) 0; }
   .page.blog .content h1, .page.blog .content h2, .page.blog .content h3, .page.blog .content h4, .page.blog .content h5, .page.blog .content h6 {
-    color: var(--primary);
+    color: var(--primary-txt);
     font-style: normal;
     font-weight: 400; }
   .page.blog .content h1, .page.blog .content h2, .page.blog .content h3 {
@@ -2017,7 +2020,7 @@ form input {
   min-height: 45vmin; }
 
 .page.press .hero h1 {
-  color: var(--primary);
+  color: var(--primary-txt);
   padding-left: 0;
   padding-right: 0; }
   .page.press .hero h1 small {
@@ -2040,7 +2043,7 @@ form input {
     text-align: center;
     margin: var(--space-3) 0; }
   .page.press .content h1, .page.press .content h2, .page.press .content h3, .page.press .content h4, .page.press .content h5, .page.press .content h6 {
-    color: var(--primary);
+    color: var(--primary-txt);
     font-style: normal;
     font-weight: 400; }
   .page.press .content h1, .page.press .content h2, .page.press .content h3 {
@@ -2067,7 +2070,7 @@ form input {
   min-height: 45vmin; }
 
 .page.press .hero h1 {
-  color: var(--primary);
+  color: var(--primary-txt);
   padding-left: 0;
   padding-right: 0; }
   .page.press .hero h1 small {
@@ -2090,7 +2093,7 @@ form input {
     text-align: center;
     margin: var(--space-3) 0; }
   .page.press .content h1, .page.press .content h2, .page.press .content h3, .page.press .content h4, .page.press .content h5, .page.press .content h6 {
-    color: var(--primary);
+    color: var(--primary-txt);
     font-style: normal;
     font-weight: 400; }
   .page.press .content h1, .page.press .content h2, .page.press .content h3 {

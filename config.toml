@@ -16,12 +16,13 @@ enableMissingTranslationPlaceholders = true
 
 [params]
     title = "Grazer Soundscapes 2020"
+    headline = "GRAZER SOUNDSCAPES"
     date = "2020"
     description = "Sie finden es spannend, den Geräuschen Ihrer Umgebung zu lauschen? Und wie oft haben Sie schon gedacht: Das würde ich gerne einmal aufnehmen und anderen Menschen vorspielen – aber wussten nicht so genau, wie und mit welchen Gerätschaften Sie das anstellen können?"
     images = ["/images/social-share.jpg"]
     email = "soundscapes2020@helsinki.at"
     keywords = "soundscapes geräusche radio helsinki aufnahmen grätzl graz"
-    copyright = "Radio Helsinki"
+    copyright = "CC BY Radio Helsinki, Freies Radio Graz"
     #cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
     #subscriptionUrl = "http://eepurl.com/dps1j5"
     appleTouchIcon = "/apple-touch-icon.png"
@@ -33,10 +34,11 @@ enableMissingTranslationPlaceholders = true
     #googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
 
 [params.logos]
-    jumbo = "/images/logos/soundscapes_color.png"
-    header = "/images/logos/soundscapes_color.png"
+    jumbo = "/images/logos/soundscapes_startpage.png"
+    header = "/images/logos/soundscapes_color_small.png"
     footer = "/images/logos/soundscapes_bw.png"
-
+    footerbiglogo = "/images/logos/radio_helsinki_bar_black-white.png"
+    footerbiglogoUrl = "https://helsinki.at"
 #[menu]
 #[[menu.main]]
 #    identifier = "radiohelsinki"

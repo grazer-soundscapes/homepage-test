@@ -11,7 +11,7 @@
     }
 
     h1 {
-      color: var(--primary);
+      color: var(--primary-txt);
       padding-left: 0;
       padding-right: 0;
       small {
@@ -44,7 +44,7 @@
     }
 
     h1,h2,h3,h4,h5,h6 {
-      color: var(--primary);
+      color: var(--primary-txt);
       font-style: normal;
       font-weight: 400;
     }
