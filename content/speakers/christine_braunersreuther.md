@@ -12,6 +12,5 @@ socials:
     link: 'https://github.com/cedricmoulard'
     name: cedricmoulard
 ---
-Diplômé de Arts & Métiers ParisTech et pas vraiment destiné à faire de l'informatique. 
-Développeur autodidacte. 
-
+# Das ist eine Überschrift
+und das der Text
