@@ -2,10 +2,10 @@
 key: valerie_quade
 name: Valerie Quade
 id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
-feature: false
+feature: true
 company: 
 city: 'Graz, AT'
-photoURL: /images/artists/valerie_quade.png
+photoURL: /images/team/Quade_Valerie.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/vvvv'
