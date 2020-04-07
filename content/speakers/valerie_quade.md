@@ -7,11 +7,16 @@ company:
 city: 'Graz, AT'
 photoURL: /images/team/Quade_Valerie.jpg
 socials:
-  - icon: twitter
-    link: 'https://twitter.com/vvvv'
-    name: twittername
-  - icon: github
-    link: 'https://github.com/vvvv'
-    name: githubname
+ # - icon: twitter
+  #  link: 'https://twitter.com/vvvv'
+   # name: twittername
+  #- icon: github
+   # link: 'https://github.com/vvvv'
+    #name: githubname
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Valerie Quade kommt aus dem Ruhrpott und hat nach dem Sound Design 
+Studium in Dortmund den Master in Graz nachgelegt. Ihr Schwerpunkt liegt 
+auf nachhaltiger, akustischer Stadtplanung. Sie arbeitet zur Zeit als 
+Spielepädagogin bei Ludovico und moderiert die Sendung FAQ im freien 
+Radio. Im Projekt Grazer Soundscapes kümmert sie sich als Künstlerin um 
+die Stadtteilzentren St. Peter und Geidorf. 
