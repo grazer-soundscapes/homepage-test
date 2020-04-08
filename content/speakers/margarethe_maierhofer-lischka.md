@@ -8,7 +8,7 @@ city: 'Graz, AT'
 photoURL: /images/artists/margarethe_maierhofer_lischka.JPG
 socials:
 #  - icon: github
-    link: 'http://bassomobile.wordpress.com'
+  #  link: 'http://bassomobile.wordpress.com'
   #  name: ghname
 ---
 Margarethe Maierhofer-Lischka ist Kontrabassistin, Forscherin und
