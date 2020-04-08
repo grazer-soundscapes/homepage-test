@@ -15,4 +15,4 @@ presentation:
 draft: false
 ---
 
-Spazieren gehen...
+Aufgrund der Maßnahmen zur Eindämmung der Corona-Pandämie sind die geplanten Sound-Spaziergänge verschoben.
