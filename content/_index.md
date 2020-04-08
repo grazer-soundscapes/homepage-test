@@ -66,7 +66,7 @@ Grazer Soundscapes ist das Projekt von Radio Helsinki im Rahmen von Graz Kulturj
 
 <!-- ... -->
 
-<!-- ... -->
+<!-- ... 
 
 {{% home-location
     image="/images/map.jpg"
