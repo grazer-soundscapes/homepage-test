@@ -5,15 +5,17 @@ id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
 feature: true
 company: 
 city: 'Graz, AT'
-photoURL: /images/artists/reni_hofmueller.png
+photoURL: /images/artists/ReniHofmueller.jpg
 socials:
-  - icon: twitter
-    link: 'https://twitter.com/yyyyy'
-    name: twittwername
-  - icon: github
-    link: 'https://github.com/yyyyy'
-    name: ghname
+  #- icon: twitter
+   # link: 'https://twitter.com/yyyyy'
+    #name: twittwername
+ # - icon: github
+    link: 'renitentia.mur.at'
+   # name: ghname
 ---
-reni_hofmueller
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Geb. 1966, lebt in Graz.
+Künstlerin, Musikerin, Performerin, Organisatorin und Aktivistin im Bereich (neue) Medien, Technologie, Feminismus und Politik, und engagiert in der Entwicklung zeitgenössischer Kunst.
+
+renitentia.mur.at
