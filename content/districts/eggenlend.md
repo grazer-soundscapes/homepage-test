@@ -5,7 +5,7 @@ id: XDO4bqPAuJRWnEAJtNW9bCg09el
 feature: true
 website: https://www.wiki.at/Gemeinwesen/STA-EggenLend/
 city: 'Graz, AT'
-photoURL: /images/districts/eggenlend.png
+photoURL: /images/districts/STA-Vorplatz.jpg
 country: 'Graz, AT'
 socials:
   - icon: facebook
@@ -15,20 +15,26 @@ socials:
 #    link: 'https://github.com/'
 #    name: clement0210
 ---
-## Siedlungsbetreuung
+## Hintergrund & Basis
 
-Die Siedlungsbetreuung passiert auf unterschiedlichen Ebenen und geht von Haustürgesprächen, über wöchentliche Siedlungssprechstunden, von Hofkonferenzen bis hin zu Hausbesuchen. Die Hauptthemen der BewohnerInnen fokusiert meist auf die Bereiche
+EggenLend, der "gefühlte Bezirk“ hinter dem Bahnhof Richtung Westen vereint die beiden Bezirke Eggenberg und Lend.
+Mittels Gemeinwesenarbeit bzw. Stadtteilarbeit soll es gelingen ein gutes Zusammenleben zu unterstützen und zu verbessern. 
+Die Grundhaltung dabei Menschen als Expert*innen ihres Lebens anzusehen. 
+Die Ziele sind mehr Lebensqualität zu schaffen und möglichst vielen Menschen ein Gefühl des „Hier-zuhause-seins“ und „Dabei-seins“ zu ermöglichen. 
+Das Stadtteilbüro in der Alten Poststraße 118 dient als niederschwellige Andockmöglichkeit für die speziellen Bedürfnisse der verschiedenen Bevölkerungsgruppen. 
+Durch die gute Vernetzung zu anderen Organisationen und Sozialeinrichtungen kann die Vermittlerposition zwischen der Bevölkerung und diesen bestmöglich eingenommen werden.  
+Damit einher geht ein wiedererwecktes Interesse an den eigenen Angelegenheiten, eine verstärkte Teilhabe an der Gesellschaft und Beteiligung am Meinungsbildungsprozess. 
+Ein Ziel ist also nicht zuletzt eine soziale und politische Teilhabefunktion. 
 
-* Ärger mit Nachbarn
-* Müll & Sauberkeit
-* Lärm 
-* Sicherheitsgefühl
+## Aktivitäten
 
-Identität im persönlichen Wohnumfeld ist ein sehr wichtiger Faktor - aufbauen auf der Verschiedenheit an Möglichkeiten mit den BewohnerInnen in Kontakt zu treten bleibt das Ziel immer dasselbe: „Miteinander ins Reden kommen!“
-
-## Das Stadtteilbüro
-
-„Gesicht nach außen und Informationsdrehscheibe!“ Verbinden - Vernetzen - Brücken bauen über das Stadtteilbüro. Stadtteilarbeit bzw. das Stadtteilbüro als verbindendes und aktivierendes Element definieren und bekannt machen, Schwellenangst nehmen und den Nutzen spürbar machen.
+    * Stadtteilbüro Öffnungszeiten als Anlaufstelle und Informationsdrehscheibe für Bewohner*innen in EggenLend
+    * Persönliche Terminvereinbarung auch außerhalb unserer Öffnungszeiten
+    * KostNix-Laden als kooperatives Nachbarschaftsprojekt Ehrenamtlicher
+    * Beteiligung ermöglichen: Frühstückstreffen, Spielegruppe, Kreativgruppe
+    * Soziale Sicherheit durch stabilere Netzwerke: begegnen- teilen-tauschen
+    * Vernetzt handeln: Brücken bauen zu Partner*innen der Stadt Graz
+    * Siedlungsbetreuung im Sozialen Wohnbau
 
 Öffnungszeiten/ Sprechstunden des Stadtteilbüros
 * Montag: 13.00-15.00 Uhr
