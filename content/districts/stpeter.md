@@ -4,14 +4,22 @@ name: Nachbarschaftszentrum St. Peter
 id: XDO4bqPAuJRWnEAJtNW9bCg09p
 feature: true
 website: https://www.wiki.at/Gemeinwesen/Nachbarschaftszentrum-St-Peter/
-photoURL: /images/districts/stpeter.png
+photoURL: /images/districts/NBZ_Kalenderfoto_offiziell_mitFotocreit_.jpg
 country: 'Graz, AT'
 socials:
   - icon: facebook
     link: 'https://www.facebook.com/NachbarschaftszentrumStPeter'
     name: 
 ---
-Das Nachbarschaftszentrum ist ein kommunikativer Ort verstehen, an dem alle Generationen und Kulturen die Möglichkeit haben teilzuhaben, sich einzubringen, die Räumlichkeiten für sich zu erobern und wo gemeinsame Projekte und Aktivitäten stattfinden. Diese niederschwellige Einrichtung bietet allen Menschen einen unkomplizierten Zugang ohne erschwerende Hürden in ihrem konkreten Lebensraum der Menschen.
+## Hintergrund & Basis
+
+Das Nachbarschaftszentrum ist ein kommunikativer Ort, an dem alle Generationen und Kulturen die Möglichkeit haben teilzuhaben und sich einzubringen! 
+
+Für nachbarschaftliche Tätigkeiten stehen die Räumlichkeiten für Bewohner*innen kosten- und konsumfrei zur Verfügung! Für andere Aktivitäten können die Räume gegen einem geringen Betriebskostenausgleich angemietet werden. 
+
+Die einfache und niederschwellige Einrichtung soll allen Menschen einen unkomplizierten Zugang ohne erschwerende Hürden (Mitgliedschaft, Eintritt…) im direkten Lebensumfeld der Menschen bieten. Anliegen und Fragen bekommen Raum und Unterstützung als Angebot. Die Ideen für Aktivitäten bringen die Menschen ein – das NBZ St.Peter steht begleitend zur Seite!
+
+Langfristiges Ziel ist ein gelebtes Miteinander an einem offenen Ort für alle!
  
 ## Raumnutzung
 
@@ -21,26 +29,14 @@ Eine Durchmischung von Angeboten der öffentlichen Hand und privaten engagierten
 
 ### Hier ein Auszug der Aktivitäten und Angebote:
 
-* Elternberatung Amt für Jugend und Familie
-* Bezirksratssitzungen St. Peter
-* Babylounge IKJF
-* Lern- und Spielinsel IKJF
-* Geburtstagsfeiern
-* Jour Fix St. Peter
-* Verkehrsarbeitskreis
-* Flohmärkte
-* Qi Gong
-* Yoga
-* Zumba
-* 5 Tibeter
-* Pensionistenverband
-* Volkshochschule Steiermark (8 Kurse)
-* Schmerzworkshop
-* Club 8
-* Workshops (z.B. Adventkranzbinden)
-* Kinderbibliothek
-* Müttertreff
-* IZB
+* Offene Sprechstunden wöchentlich im NBZ – persönliche Terminvereinbarung auch außerhalb unserer Öffnungszeiten
+* Bezirksveranstaltungen: St.Peter Bezirksfest, Adventstand
+* Bücherkabine im öffentlichen Raum
+* Eltern-Kind-Café 
+* Alte Geschichten & Orte in St.Peter
+* Repairnachmittage
+* Ehrenamtliche Gruppen begleiten: Zeit-Hilfs-Netz Graz Südost, Treffpunkt Jour Fixe St.Peter
+* Newsletterservice
 
 ## Zusammenleben
 
@@ -67,4 +63,6 @@ Sankt-Peter-Hauptstraße 85, 8042
 0676/5777140
 
 nachbarschaftszentrum@wiki.at
+
+Foto: c Fotostudio Mario Gimpel
 
