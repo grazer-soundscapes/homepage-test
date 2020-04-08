@@ -11,7 +11,7 @@ socials:
    # link: 'https://twitter.com/yyyyy'
     #name: twittwername
  # - icon: github
-    link: 'renitentia.mur.at'
+   # link: 'renitentia.mur.at'
    # name: ghname
 ---
 
