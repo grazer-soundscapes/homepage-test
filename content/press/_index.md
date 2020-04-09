@@ -1,5 +1,5 @@
 ---
-title: Projekt & Presse
+title: Projektbeschreibung
 menu:
   main:
     weight: 10

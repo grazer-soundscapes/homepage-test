@@ -1,5 +1,5 @@
 ---
-title: Project Description & Press Material
+title: Project Description
 menu:
   main:
     weight: 10
