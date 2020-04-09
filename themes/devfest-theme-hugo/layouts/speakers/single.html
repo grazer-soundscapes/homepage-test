@@ -6,6 +6,9 @@
 		<div class="speaker-img" style="background-image: url({{ .Page.Params.photoURL }});"></div>
 		<div>
 			<h1>{{ .Page.Params.name }}</h1>
+			{{ if .Params.website }}
+			<a href="{{ .Params.website }}">{{ .Params.website }}</a>
+			{{ end }}
 
 			<ul class="socials">
 				{{ range .Page.Params.socials }}
@@ -47,7 +50,9 @@
 <section class="speaker">
 
 	<header>
+		<!--
 		<h2>{{ .Page.Params.city }}</h2>
+		-->
 		<div class="speaker-company">{{ .Page.Params.company }}</div>
 	</header>
 

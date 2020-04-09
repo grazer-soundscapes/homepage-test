@@ -6,6 +6,7 @@ feature: true
 company: 
 city: 'Graz, AT'
 photoURL: /images/artists/margarethe_maierhofer_lischka.JPG
+website: http://bassomobile.wordpress.com
 socials:
 #  - icon: github
   #  link: 'http://bassomobile.wordpress.com'
@@ -21,5 +22,3 @@ Musikerin in zahlreichen Ensembles für neue und improvisierte Musik
 aktiv und ist derzeit Vorsitzende des Netzkunst-Vereins mur.at in Graz.
 Für ihre Arbeit erhielt sie 2018 ein Stipendium des Bundeskanzleramts
 sowie den Theodor-Körner-Preis.
-
-Webseite: http://bassomobile.wordpress.com
