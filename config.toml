@@ -39,13 +39,13 @@ enableMissingTranslationPlaceholders = true
     footer = "/images/logos/soundscapes_bw.png"
     footerbiglogo = "/images/logos/radio_helsinki_bar_black-white.png"
     footerbiglogoUrl = "https://helsinki.at"
-#[menu]
-#[[menu.main]]
-#    identifier = "radiohelsinki"
-#    name = "Radio Helsinki"
-#    url = "https://helsinki.at/"
-#    weight = 200
-#    external = true
+[menu]
+[[menu.main]]
+    identifier = "cba"
+    name = "Sendungen"
+    url = "https://cba.fro.at/series/grazer-soundscapes"
+    weight = 200
+    external = true
 
 [languages]
 [languages.de]
