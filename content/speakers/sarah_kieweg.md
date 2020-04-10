@@ -2,14 +2,15 @@
 key: sarah_kieweg
 name: Sarah Kieweg
 id: sarah_kieweg
-feature: false
-photoURL: /images/artists/sarah_kieweg.jpg
+feature: true
+photoURL: /images/artists/Sarah_Kieweg.JPG
 socials:
-  - icon: twitter
-    link: 'https://twitter.com/cedric_moulard'
-    name: cedric_moulard
-  - icon: github
-    link: 'https://github.com/cedricmoulard'
-    name: cedricmoulard
+#  - icon: twitter
+ #   link: 'https://twitter.com/cedric_moulard'
+  #  name: cedric_moulard
+  #- icon: github
+   # link: 'https://github.com/cedricmoulard'
+    #name: cedricmoulard
 ---
 
+Aufgewachsen in Wien und Leibnitz, Studium Transkulturelle Kommunikation und Übersetzen der Sprachen Spanisch, Russisch und Deutsch in Graz. Erste Radioerfahrungen 2007 kurz nach der Matura im Rahmen eines Ausbildungspraktikums, Engagement bei Radio Helsinki seit 2016. Die Begeisterung für die Sprache und das Hören sowie aufkeimendes Interesse am journalistischen Arbeiten führten zu einer seither andauernden Mitarbeit in der Redaktion des Nachrichtenmagazins VON UNTEN. Verschiedenste journalistische und technische Weiterbildungen bis hin zu Workshopleitung für Radio-Neulinge und Kinder. Im Kulturjahr Graz 2020-Projekt „Grazer Soundscapes“, koordiniert sie die zwei entstandenen Sendungsformate.
