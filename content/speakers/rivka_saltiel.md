@@ -3,7 +3,7 @@ key: rivka_saltiel
 name: Rivka Saltiel
 id: e5GCt0Q7jSSgVtPTzfUFplteFMm1
 feature: true
-city: 'Graz, AT'
+
 photoURL: /images/artists/Rivka_Saltiel.jpeg
 socials:
   #- icon: twitter

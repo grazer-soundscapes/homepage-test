@@ -4,7 +4,7 @@ name: Lale Rodgarkia-Dara
 id: CQO7iVm9GWb4jFPi3xmIUnsyY5r2
 feature: true
 company: Radio Helsinki
-city: 'Graz, AT'
+
 photoURL: /images/artists/Lale_portrait.JPG
 socials:
  # - icon: twitter

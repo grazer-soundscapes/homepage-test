@@ -4,7 +4,7 @@ name: Margarethe Maierhofer-Lischka
 id: PZ3g6x42k9cu5e9siNoFQV8Z6jy2
 feature: true
 company: 
-city: 'Graz, AT'
+
 photoURL: /images/artists/margarethe_maierhofer_lischka.JPG
 website: http://bassomobile.wordpress.com
 socials:

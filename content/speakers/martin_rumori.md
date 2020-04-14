@@ -4,7 +4,7 @@ name: Martin Rumori
 id: EP7LDG2i6YgiNs027aplFVhEbv12
 feature: true
 company: 
-city: 'Graz, AT'
+
 photoURL: /images/artists/martin_rumori.jpg
 socials:
  # - icon: twitter
