@@ -22,7 +22,7 @@ enableMissingTranslationPlaceholders = true
     images = ["/images/social-share.jpg"]
     email = "soundscapes2020@helsinki.at"
     keywords = "soundscapes geräusche radio helsinki aufnahmen grätzl graz"
-    copyright = "CC BY Radio Helsinki, Freies Radio Graz"
+    copyright = "CC BY Radio Helsinki<br>Freies Radio Graz"
     #cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
     #subscriptionUrl = "http://eepurl.com/dps1j5"
     appleTouchIcon = "/apple-touch-icon.png"
@@ -36,9 +36,10 @@ enableMissingTranslationPlaceholders = true
 [params.logos]
     jumbo = "/images/logos/soundscapes_startpage.png"
     header = "/images/logos/soundscapes_color_small.png"
-    footer = "/images/logos/soundscapes_bw.png"
-    footerbiglogo = "/images/logos/radio_helsinki_bar_black-white.png"
-    footerbiglogoUrl = "https://helsinki.at"
+    footerleft = "/images/logos/soundscapes_bw.png"
+    footermid = "/images/logos/radio_helsinki_bar_black-white.png"
+    footerbiglogo = "/images/logos/graz-kulturjahr2020-logo.png"
+    footerbiglogoUrl = ""
 [menu]
 [[menu.main]]
     identifier = "cba"

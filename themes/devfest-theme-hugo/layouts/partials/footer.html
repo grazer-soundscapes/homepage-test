@@ -88,8 +88,11 @@
 		<hr>
 
 		<div class="footer-footer">
-			{{ if .Site.Params.logos.footer }}
-			<img src="{{ .Site.Params.logos.footer }}" alt="{{ .Site.Title }}">
+			{{ if .Site.Params.logos.footerleft }}
+			<img src="{{ .Site.Params.logos.footerleft }}" alt="{{ .Site.Title }}">
+			{{ end }}
+			{{ if .Site.Params.logos.footermid }}
+			<img src="{{ .Site.Params.logos.footermid }}" alt="{{ .Site.Title }}">
 			{{ end }}
 			<div>{{ emojify .Site.Params.copyright }}</div>
 		</div>
