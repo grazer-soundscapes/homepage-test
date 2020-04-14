@@ -4,7 +4,7 @@ name: Nachbarschaftszentrum St. Peter
 id: XDO4bqPAuJRWnEAJtNW9bCg09p
 feature: true
 website: https://www.wiki.at/Gemeinwesen/Nachbarschaftszentrum-St-Peter/
-photoURL: /images/districts/NBZ_Kalenderfoto_offiziell_mitFotocreit_.jpg
+photoURL: /images/districts/stpeter.jpg
 country: 'Graz, AT'
 socials:
   - icon: facebook
