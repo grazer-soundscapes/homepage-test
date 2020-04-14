@@ -1,9 +1,9 @@
 ---
 key: juergen_schweizer
-name: Juergen Schweizer
+name: Jürgen Schweizer
 id: juergen_schweizer
 feature: false
-photoURL: /images/artists/juergen_schweizer.jpg
+photoURL: /images/team/oe6jue.jpg
 company: Radio Helsinki
 socials:
 #  - icon: twitter
