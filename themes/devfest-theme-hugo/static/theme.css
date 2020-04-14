@@ -380,7 +380,7 @@ body > footer {
         body > footer .footer-footer > * {
           margin: var(--space-2) 0; } }
     body > footer .footer-footer img {
-      height: 2rem;
+      height: 4rem;
       width: auto; }
 
 button,
