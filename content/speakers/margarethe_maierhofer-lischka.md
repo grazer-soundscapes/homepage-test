@@ -4,13 +4,15 @@ name: Margarethe Maierhofer-Lischka
 id: PZ3g6x42k9cu5e9siNoFQV8Z6jy2
 feature: true
 company: 
-
 photoURL: /images/artists/margarethe_maierhofer_lischka.JPG
 website: http://bassomobile.wordpress.com
 socials:
+#  - icon: twitter
+#    link: 'https://twitter.com/'
+#    name: 
 #  - icon: github
-  #  link: 'http://bassomobile.wordpress.com'
-  #  name: ghname
+#    link: 'https://github.com/'
+#    name: 
 ---
 Margarethe Maierhofer-Lischka ist Kontrabassistin, Forscherin und
 Klangkünstlerin und lebt in Graz. Sie beschäftigt sich mit

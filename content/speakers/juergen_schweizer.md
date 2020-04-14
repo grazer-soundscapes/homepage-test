@@ -6,9 +6,6 @@ feature: false
 photoURL: /images/team/oe6jue.jpg
 company: Radio Helsinki
 socials:
-#  - icon: twitter
-#    link: 'https://twitter.com/cedric_moulard'
-#    name: cedric_moulard
   - icon: github
     link: 'https://github.com/oe6jue'
     name: 

@@ -4,15 +4,14 @@ name: Valerie Quade
 id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
 feature: true
 company: 
-
 photoURL: /images/team/Quade_Valerie.jpg
 socials:
- # - icon: twitter
-  #  link: 'https://twitter.com/vvvv'
-   # name: twittername
-  #- icon: github
-   # link: 'https://github.com/vvvv'
-    #name: githubname
+#  - icon: twitter
+#    link: 'https://twitter.com/'
+#    name: 
+#  - icon: github
+#    link: 'https://github.com/'
+#    name: 
 ---
 Valerie Quade kommt aus dem Ruhrpott und hat nach dem Sound Design 
 Studium in Dortmund den Master in Graz nachgelegt. Ihr Schwerpunkt liegt 

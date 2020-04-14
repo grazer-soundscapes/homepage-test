@@ -2,7 +2,6 @@
 key: tobias_dankl
 name: Tobias Dankl
 feature: true
-city: 
 photoURL: /images/artists/tobias_dankl.jpg
 socials:
   - icon: facebook

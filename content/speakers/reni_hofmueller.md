@@ -5,7 +5,6 @@ id: KkCVbJvhE1OL1Dd51U4t9H54iFT2
 feature: true
 company: 
 website: https://renitentia.mur.at
-
 photoURL: /images/artists/ReniHofmueller.jpg
 socials:
   #- icon: twitter
