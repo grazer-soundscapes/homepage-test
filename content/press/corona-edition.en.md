@@ -1,7 +1,7 @@
 ---
 title: Corona-Edition
 brief: Geräusche von zu Hause
-image: /images/press/bild_website_corona_edition_grosz.jpg
+image: /images/press/bild_website_corona_edition_klein.jpg
 date: 2020-04-05
 draft: false
 ---
