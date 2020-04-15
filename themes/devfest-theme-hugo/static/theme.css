@@ -1062,6 +1062,46 @@ form input {
     right: unset;
     width: 100%; } }
 
+/* broadcast */
+@media (max-width: 44.99em) {
+  .page.broadcast .hero .description, .page.fr-broadcast .hero .description {
+    padding: 0; } }
+
+.page.broadcast main h1, .page.broadcast #TableOfContents, .page.broadcast main .content, .page.fr-broadcast main h1, .page.fr-broadcast #TableOfContents, .page.fr-broadcast main .content {
+  max-width: var(--theJdrSize);
+  margin: 0 auto; }
+
+.page.broadcast .content h1, .page.broadcast .content h2, .page.broadcast .content h3, .page.broadcast .content h4, .page.broadcast .content h5, .page.broadcast .content h6, .page.fr-broadcast .content h1, .page.fr-broadcast .content h2, .page.fr-broadcast .content h3, .page.fr-broadcast .content h4, .page.fr-broadcast .content h5, .page.fr-broadcast .content h6 {
+  color: var(--primary); }
+
+.page.broadcast .content h3, .page.broadcast .content h4, .page.broadcast .content h5, .page.broadcast .content h6, .page.broadcast .content > ul, .page.broadcast .content > ol, .page.broadcast .content > p, .page.fr-broadcast .content h3, .page.fr-broadcast .content h4, .page.fr-broadcast .content h5, .page.fr-broadcast .content h6, .page.fr-broadcast .content > ul, .page.fr-broadcast .content > ol, .page.fr-broadcast .content > p {
+  margin-left: calc(var(--container-margin) - 2rem); }
+
+.page.broadcast .content li, .page.fr-broadcast .content li {
+  line-height: 1.5; }
+
+@media (max-width: 44.99em) {
+  .page.broadcast .content ul, .page.fr-broadcast .content ul {
+    padding-left: 2ch; } }
+
+.page.broadcast .content mark, .page.fr-broadcast .content mark {
+  font-weight: bold;
+  border-radius: .25em;
+  padding: .125em; }
+  .page.broadcast .content mark.a, .page.fr-broadcast .content mark.a {
+    color: var(--fg-mark-a);
+    background-color: var(--bg-mark-a); }
+  .page.broadcast .content mark.b, .page.fr-broadcast .content mark.b {
+    color: var(--fg-mark-b);
+    background-color: var(--bg-mark-b); }
+  .page.broadcast .content mark.t2, .page.fr-broadcast .content mark.t2 {
+    color: var(--fg-mark-t2);
+    background-color: var(--bg-mark-t2); }
+
+@media (max-width: 71.24em) {
+  .page.broadcast .content, .page.fr-broadcast .content {
+    padding: 0 .5em; } }
+
 .page.districts main {
   display: flex;
   flex-direction: column; }

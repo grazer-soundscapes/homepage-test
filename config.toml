@@ -37,8 +37,8 @@ enableMissingTranslationPlaceholders = true
     jumbo = "/images/logos/soundscapes_startpage.png"
     header = "/images/logos/soundscapes_color_small.png"
     footerleft = "/images/logos/soundscapes_bw.png"
-    footermid = "/images/logos/Graz2020_Logo RZ_Schwarz.svg"
-    footerbiglogo = "/images/logos/graz-kulturjahr2020-logo.png"
+    footermid = "/images/logos/radio_helsinki_bar_black-white.png"
+    footerbiglogo = "/images/logos/Graz2020_Logo RZ_Schwarz.svg"
     footerbiglogoUrl = ""
 [menu]
 #[[menu.main]]
