@@ -41,12 +41,12 @@ enableMissingTranslationPlaceholders = true
     footerbiglogo = "/images/logos/graz-kulturjahr2020-logo.png"
     footerbiglogoUrl = ""
 [menu]
-[[menu.main]]
-    identifier = "cba"
-    name = "Sendungen"
-    url = "https://cba.fro.at/series/grazer-soundscapes"
-    weight = 200
-    external = true
+#[[menu.main]]
+#    identifier = "cba"
+#    name = "Sendungen"
+#    url = "https://cba.fro.at/series/grazer-soundscapes"
+#    weight = 200
+#    external = true
 
 [languages]
 [languages.de]
