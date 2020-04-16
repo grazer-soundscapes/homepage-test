@@ -8,7 +8,7 @@
 {{ range (split (.Get "categories") ",") }}
 <section class="partners-group partner-{{ . }}">
 <h3 class="fancy">
-<span>{{ . }}</span>
+<!-- <span>{{ . }}</span> -->
 </h3>
 <ul>
 	{{ $broadcasts := where $site.AllPages "Params.category" . }}
