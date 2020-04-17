@@ -36,6 +36,7 @@ ZVR: 417484482
 
 ## Grundlegende Richtung
 * Radio Helsinki ist ein freies, nicht-kommerzielles Radio in Graz, das Freiraum für Inhalte und Anliegen außerhalb des Mainstreams bietet.
+* Grazer Soundscapes 2020 ist ein Projekt von Radio Helsinki im Rahmen von Graz Kulturjahr 2020.
 
 ## Haftung
 Die Richtigkeit, Vollständigkeit und Aktualität aller Angaben wird nicht garantiert.
