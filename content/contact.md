@@ -29,9 +29,14 @@ ZVR: 417484482
 
 ## Geschäftsführung
 * Lale Rodgarkia-Dara
-* Peter Petz 
+* Peter Petz
+
+## Zuständige Regulierungsbehörde
+* KommAustria
+
+## Grundlegende Richtung
+* Radio Helsinki ist ein freies, nicht-kommerzielles Radio in Graz, das Freiraum für Inhalte und Anliegen außerhalb des Mainstreams bietet.
 
 ## Haftung
-
 Die Richtigkeit, Vollständigkeit und Aktualität aller Angaben wird nicht garantiert.
 
