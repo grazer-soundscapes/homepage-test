@@ -1,13 +1,18 @@
 ---
+key: broadcast
 title: Wie klingt die Stadt
 cbaId: 443866
 description: Auftaktsendung der Sendereihe Grazer Soundscapes
-category: grazersoundscapes
+category: broadcast
 language: German
+format: broadcast
+level: beginner
 weight: 01
 tags:
+  - _lärm_
   - Soundscapes
   - Sendung
+presentation: 
 draft: false
 ---
 

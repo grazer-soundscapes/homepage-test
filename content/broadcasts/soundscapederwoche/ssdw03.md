@@ -6,6 +6,7 @@ category: ssdw
 language: German
 tags:
   - Soundscapes der Woche
+format: keynote
 draft: false
 ---
 Die Soundscape dieser Woche bringt verschiedene akustische Eindrücke von den Ufern der Mur.

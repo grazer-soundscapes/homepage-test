@@ -2,14 +2,13 @@
 title: Anleitung zum Soundscapen
 cbaId: 445297
 description: 
-category: grazersoundscapes
+category: broadcast
 language: German
 weight: 02
 key: broadcast
 format: broadcast
 tags:
   - Soundscapes
-  - broadcast
 draft: false
 ---
 

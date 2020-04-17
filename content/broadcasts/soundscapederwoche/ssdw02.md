@@ -6,6 +6,7 @@ category: ssdw
 language: German
 tags:
   - Soundscapes der Woche
+format: keynote
 draft: false
 ---
 Die Soundscape der Woche ist ein kleiner Einblick in das akustische Umfeld eines Ortes in Graz.

@@ -2,7 +2,7 @@
 title: Station 1 Orientierung
 cbaId: 448659
 description: Soundscapes aus der Quarantäne
-category: grazersoundscapes
+category: broadcast
 language: German
 weight: 04
 tags:

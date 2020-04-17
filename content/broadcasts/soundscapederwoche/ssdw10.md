@@ -6,6 +6,7 @@ category: ssdw
 language: German
 tags:
   - Soundscapes der Woche
+format: keynote
 draft: false
 ---
 ## Grazer Soundscapes Corona-Edition:
