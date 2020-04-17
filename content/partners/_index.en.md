@@ -1,10 +1,10 @@
 ---
 title: Cooperations
-menu:
-  main:
-    weight: 80
+#menu:
+#  main:
+#    weight: 80
 
-draft: true
+draft: false
 ---
 
 {{% hero %}}
