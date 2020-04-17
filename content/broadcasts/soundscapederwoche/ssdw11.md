@@ -1,11 +1,11 @@
 ---
-title: Soundscapes der Woche (#11)
+title: Soundscape der Woche (#11)
 cbaId: 449895
 description: Innenhofleben Geidorf
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: keynote
 speakers:
   - sarah_kieweg

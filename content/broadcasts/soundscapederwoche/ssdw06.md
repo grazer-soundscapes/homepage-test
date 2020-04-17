@@ -1,11 +1,11 @@
 ---
-title: Soundscapes der Woche (#06)
+title: Soundscape der Woche (#06)
 cbaId: 445680
 description: „Klangbad“ im Mühlgang
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: keynote
 speakers:
   - sarah_kieweg

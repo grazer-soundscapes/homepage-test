@@ -1,11 +1,11 @@
 ---
-title: Soundscapes der Woche (#05)
+title: Soundscape der Woche (#05)
 cbaId: 444789
 description: Eisernes Tor
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: keynote
 speakers:
   - sarah_kieweg

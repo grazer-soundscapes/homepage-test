@@ -1,11 +1,11 @@
 ---
-title: Soundscapes der Woche (#07)
+title: Soundscape der Woche (#07)
 cbaId: 446131
 description: Am Rosenhain
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: keynote
 speakers:
   - sarah_kieweg

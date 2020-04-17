@@ -1,11 +1,11 @@
 ---
-title: Soundscapes der Woche (#08)
+title: Soundscape der Woche (#08)
 cbaId: 446136
 description: Regen in Waltendorf
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: keynote
 speakers:
   - sarah_kieweg

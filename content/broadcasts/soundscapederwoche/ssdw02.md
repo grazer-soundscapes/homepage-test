@@ -1,11 +1,11 @@
 ---
-title: Soundscapes der Woche (#02)
+title: Soundscape der Woche (#02)
 cbaId: 442287
 description: Garagen-Einfahrt neben dem Radio Helsinki Funkhaus
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: keynote
 speakers:
   - sarah_kieweg

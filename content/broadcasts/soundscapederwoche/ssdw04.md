@@ -1,11 +1,11 @@
 ---
-title: Soundscapes der Woche (#04)
+title: Soundscape der Woche (#04)
 cbaId: 444152
 description: St. Leonhard, Graz
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: keynote
 speakers:
   - sarah_kieweg

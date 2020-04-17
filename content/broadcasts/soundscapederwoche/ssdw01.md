@@ -1,12 +1,12 @@
 ---
 key: ssdw
-title: Soundscapes der Woche (#01)
+title: Soundscape der Woche (#01)
 cbaId: 440726
 description: Herrengasse, Graz
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: ssdw
 speakers:
   - sarah_kieweg

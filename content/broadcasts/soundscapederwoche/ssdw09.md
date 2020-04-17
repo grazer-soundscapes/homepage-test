@@ -1,11 +1,11 @@
 ---
-title: Soundscapes der Woche (#09)
+title: Soundscape der Woche (#09)
 cbaId: 447673
 description: Badezimmer-Trio
 category: ssdw
 language: German
 tags:
-  - Soundscapes der Woche
+  - Soundscape der Woche
 format: keynote
 speakers:
   - sarah_kieweg
