@@ -8,6 +8,8 @@ weight: 04
 tags:
   - Soundscapes
   - Sendung
+speakers:
+  - margarethe_maierhofer-lischka
 draft: false
 ---
 ## Corona bringt die Stadt zum Verstummen? Von wegen!

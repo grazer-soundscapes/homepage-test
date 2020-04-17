@@ -7,6 +7,9 @@ language: German
 tags:
   - Soundscapes der Woche
 format: keynote
+speakers:
+  - sarah_kieweg
+  - margarethe_maierhofer-lischka
 draft: false
 ---
 Die Soundscape dieser Woche bringt klangliche Eindrücke vom Eisernen Tor in der Grazer Innenstadt.

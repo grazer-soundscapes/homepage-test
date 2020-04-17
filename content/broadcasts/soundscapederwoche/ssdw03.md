@@ -7,6 +7,9 @@ language: German
 tags:
   - Soundscapes der Woche
 format: keynote
+speakers:
+  - sarah_kieweg
+  - valerie_quade
 draft: false
 ---
 Die Soundscape dieser Woche bringt verschiedene akustische Eindrücke von den Ufern der Mur.

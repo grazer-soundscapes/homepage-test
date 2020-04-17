@@ -7,6 +7,8 @@ language: German
 tags:
   - Soundscapes der Woche
 format: keynote
+speakers:
+  - sarah_kieweg
 draft: false
 ---
 ## Grazer Soundscapes Corona-Edition:

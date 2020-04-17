@@ -9,7 +9,7 @@ tags:
   - _lärm_
 level: beginner
 speakers:
-  - cyril_delmas
+  - christine_braunersreuther
 cbaId: 443866
 presentation: 
 draft: false

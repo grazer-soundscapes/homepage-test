@@ -9,6 +9,8 @@ key: broadcast
 format: broadcast
 tags:
   - Soundscapes
+speakers:
+  - martin_rumori
 draft: false
 ---
 

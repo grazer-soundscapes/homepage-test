@@ -8,6 +8,9 @@ language: German
 tags:
   - Soundscapes der Woche
 format: ssdw
+speakers:
+  - sarah_kieweg
+  - valerie_quade
 draft: false
 ---
 Die Soundscape der Woche ist ein kleiner Einblick in das akustische Umfeld eines Ortes in Graz.

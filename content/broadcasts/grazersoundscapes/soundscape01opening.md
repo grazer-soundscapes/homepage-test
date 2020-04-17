@@ -12,6 +12,8 @@ tags:
   - _lärm_
   - Soundscapes
   - Sendung
+speakers:
+  - margarethe_maierhofer-lischka
 presentation: 
 draft: false
 ---
