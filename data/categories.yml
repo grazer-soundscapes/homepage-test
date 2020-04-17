@@ -34,3 +34,7 @@
   name: Party
 - key: pause
   name: Pause
+- key: broadcast
+  name: Sendung
+- key: ssdw
+  name: Soundscape der Woche
