@@ -1,119 +1,58 @@
-.page.districts {
+.section.districts {
 
-  main {
-    display: flex;
-    flex-direction: column;
+  .hero h1 {
+    //margin: 0 auto;
+    //max-width: var(--theJdrSize);
+    //padding-left: 0;
+    padding: 2rem var(--container-margin);
   }
 
-  .hero {
+  ul.districts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
 
-    header, .description {
-      padding: var(--space-4) var(--container-margin);
-    }
-
-    header {
-      align-self: center;
-      padding-left: 0;
-
-      display: flex;
-      align-items: center;
-
-      .district-img {
-        --size: 6rem;
-        height: var(--size, 6rem);
-        min-width: var(--size, 6rem);
-        border-radius: 100%;
-        background-size: cover;
-        box-shadow: 0 0 var(--space-3) var(--darken-3);
-        margin-right: var(--space-4);
-      }
-
-      h1 {
-        margin: 0;
-        padding: 0;
-      }
-
-      ul.socials {
-        display: flex;
-        flex-wrap: wrap;
-        list-style: none;
-        padding: 0;
-        margin: 0;
-        font-size: 1.25em;
-        justify-content: flex-start;
-
-        li {
-          flex: 0 1 auto;
-          padding-right: var(--space-4);
-          a.social {
-            width: auto;
-            color: inherit;
-            .icon {
-              width: 1em;
-            }
-          }
-        }
-
-      }
-    }
-
-
-    .description {
-
-      .talks {
-        margin: 1rem auto ;
-        max-width: var(--block-text-max-width);
-
-        padding-left: 0;
-        list-style: none;
-
-        .talk {
-          margin-top: 1rem;
-          border: thin solid var(--darken-1);
-          display: inline-flex;
-          padding: var(--space-2);
-          border-radius: var(--space-1);
-
-          .tags, .language {
-            margin-right: 1ch;
-          }
-
-          .tags {
-            white-space: nowrap;
-            align-self: center;
-          }
-
-          &.tag- {
-            display: none;
-          }
-        }
-      }
+    & > li {
+      margin: 1rem;
+      flex: 1 0 300px;
+      max-width: 450px;
     }
   }
 
-  section.district {
-    align-self: center;
-    margin: 1rem auto ;
-    max-width: var(--block-text-max-width);
+  a.district {
+    padding: var(--space-4);
+    border: thin solid var(--darken-1);
+    box-shadow: var(--space-1) var(--space-1) var(--space-2) var(--darken-2);
+    transition: box-shadow var(--animation);
+    border-radius: var(--space-2);
+    display: flex;
+    flex-direction: row;
+    height: 100%;
 
-    header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+    .district-img {
+      margin-right: var(--space-4);
     }
 
     .district-company {
-      margin: var(--space-3) 0;
-      display: flex;
-      align-items: center;
+      margin-top: var(--space-3);
+      text-align: center;
+
+      img {
+        max-width: 100%;
+      }
+
+      figcaption {
+        display: block;
+        max-width: 200px;
+      }
     }
 
-    p {
-      line-height: 1.5;
-      font-size: 110%;
+    &:hover, &:focus {
+      box-shadow: var(--space-2) var(--space-2) var(--space-2) var(--darken-3);
     }
-
   }
+
+
 }

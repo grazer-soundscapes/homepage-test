@@ -3,7 +3,6 @@
 @import '../../node_modules/sass-mq/mq';
 
 @import "partials/base";
-@import "partials/districts";
 @import "partials/header";
 @import "partials/main";
 @import "partials/footer";
@@ -13,6 +12,7 @@
 @import "partials/hero";
 @import "partials/table_of_contents";
 @import "partials/speakers";
+@import "partials/districts";
 @import "partials/tickets";
 @import "partials/partners";
 @import "partials/tags";
@@ -22,9 +22,8 @@
 @import "partials/album";
 
 @import "pages/home";
+@import "pages/broadcasts";
 @import "pages/broadcast";
-@import "pages/districts";
-@import "pages/district";
 @import "pages/sessions";
 @import "pages/session";
 @import "pages/partners";
@@ -32,6 +31,8 @@
 @import "pages/schedule";
 @import "pages/speakers";
 @import "pages/speaker";
+@import "pages/districts";
+@import "pages/district";
 @import "pages/blogs";
 @import "pages/blog";
 @import "pages/presss";
