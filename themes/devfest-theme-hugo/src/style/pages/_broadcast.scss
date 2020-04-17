@@ -1,5 +1,5 @@
 
-.broadcast {
+.talk {
   margin: 2rem auto 0;
   max-width: var(--block-text-max-width);
 
@@ -54,7 +54,7 @@
 
 .page.broadcasts {
 
-  .broadcast {
+  .talk {
 
     header {
       border-radius: var(--space-2);
@@ -179,12 +179,12 @@
 }
 
 @include mq($until: lg) {
-  .page.broadcasts {
-    .broadcast {
+  .page.talks {
+    .talk {
       grid-template-columns: 1fr;
     }
   }
-  .page.broadcasts .broadcast .speakers {
+  .page.broadcasts .talk .speakers {
     float: unset;
   }
 }

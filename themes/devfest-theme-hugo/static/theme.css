@@ -1133,74 +1133,74 @@ form input {
   .section.broadcasts ul.broadcasts, .taxonomy.tags ul.broadcasts {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); } }
 
-.broadcast {
+.talk {
   margin: 2rem auto 0;
   max-width: var(--block-text-max-width); }
-  .broadcast .complexity::before {
+  .talk .complexity::before {
     content: 'Niveau : '; }
-  .broadcast .type::before {
+  .talk .type::before {
     content: 'Type : '; }
-  .broadcast .type::after {
+  .talk .type::after {
     font-weight: 100;
     content: " (" var(--duration, "") " min.)"; }
-  .broadcast .speakers .speaker {
+  .talk .speakers .speaker {
     display: flex;
     align-items: center;
     padding: var(--space-1) var(--space-3);
     background-color: var(--base);
     --img-size: 2rem; }
-    .broadcast .speakers .speaker .speaker-img {
+    .talk .speakers .speaker .speaker-img {
       --img-size: 3rem;
       height: var(--img-size, 3rem);
       min-width: var(--img-size, 3rem);
       border-radius: 100%;
       background-size: cover;
       margin-right: var(--space-4); }
-    .broadcast .speakers .speaker .info {
+    .talk .speakers .speaker .info {
       display: flex;
       flex-direction: column; }
-    .broadcast .speakers .speaker .speaker-company {
+    .talk .speakers .speaker .speaker-company {
       flex-grow: 1;
       text-align: right;
       margin-left: var(--space-3); }
-    .broadcast .speakers .speaker p {
+    .talk .speakers .speaker p {
       max-width: 320px; }
 
-.page.broadcasts .broadcast header {
+.page.broadcasts .talk header {
   border-radius: var(--space-2);
   padding: var(--space-2);
   display: flex;
   align-items: center; }
-  .page.broadcasts .broadcast header h1 {
+  .page.broadcasts .talk header h1 {
     flex-grow: 1; }
-  .page.broadcasts .broadcast header .tags {
+  .page.broadcasts .talk header .tags {
     margin-right: 1ch;
     white-space: nowrap; }
 
-.page.broadcasts .broadcast .detail {
+.page.broadcasts .talk .detail {
   margin: var(--space-2) 0;
   padding: var(--space-2) 0;
   border-top: thin solid var(--darken-1);
   border-bottom: thin solid var(--darken-1); }
 
-.page.broadcasts .broadcast .content {
+.page.broadcasts .talk .content {
   margin: var(--space-4) 0;
   flex: 1 1 auto; }
-  .page.broadcasts .broadcast .content p {
+  .page.broadcasts .talk .content p {
     line-height: 1.5;
     font-size: 110%; }
-  .page.broadcasts .broadcast .content blockquote.twitter-tweet {
+  .page.broadcasts .talk .content blockquote.twitter-tweet {
     border: thin solid var(--darken-2);
     border-radius: .5em;
     padding: .75em; }
-    .page.broadcasts .broadcast .content blockquote.twitter-tweet p {
+    .page.broadcasts .talk .content blockquote.twitter-tweet p {
       margin: 0; }
 
-.page.broadcasts .broadcast .speakers .speaker {
+.page.broadcasts .talk .speakers .speaker {
   display: grid;
   grid-template-columns: auto 1fr;
   grid-template-rows: 1fr auto auto; }
-  .page.broadcasts .broadcast .speakers .speaker .speaker-img {
+  .page.broadcasts .talk .speakers .speaker .speaker-img {
     grid-row: 1 / -1;
     align-self: center;
     --img-size: 6rem;
@@ -1209,18 +1209,18 @@ form input {
     border-radius: 100%;
     background-size: cover;
     margin-right: var(--space-4); }
-  .page.broadcasts .broadcast .speakers .speaker .speaker-company {
+  .page.broadcasts .talk .speakers .speaker .speaker-company {
     text-align: left;
     margin-left: 0; }
 
-.page.broadcasts .broadcast .speakers {
+.page.broadcasts .talk .speakers {
   float: right;
   margin: var(--space-1) var(--space-3);
   list-style: none;
   padding: 0;
   align-self: start;
   border-radius: var(--space-2); }
-  .page.broadcasts .broadcast .speakers .speaker {
+  .page.broadcasts .talk .speakers .speaker {
     padding: var(--space-3);
     margin: var(--space-4) 0;
     border: thin solid var(--darken-1);
@@ -1229,15 +1229,15 @@ form input {
     border-radius: var(--space-2);
     text-decoration: none;
     color: inherit; }
-    .page.broadcasts .broadcast .speakers .speaker:hover, .page.broadcasts .broadcast .speakers .speaker:focus {
+    .page.broadcasts .talk .speakers .speaker:hover, .page.broadcasts .talk .speakers .speaker:focus {
       box-shadow: var(--space-2) var(--space-2) var(--space-2) var(--darken-3); }
 
-.page.broadcasts .broadcast .media {
+.page.broadcasts .talk .media {
   grid-column: 1 / -1; }
-  .page.broadcasts .broadcast .media a {
+  .page.broadcasts .talk .media a {
     padding: var(--space-3) 0;
     font-size: 1rem; }
-  .page.broadcasts .broadcast .media .social-slides {
+  .page.broadcasts .talk .media .social-slides {
     width: auto;
     margin-top: 1em;
     background: var(--primary);
@@ -1245,15 +1245,15 @@ form input {
     font-size: 1.25em;
     padding: .125em .75em;
     border-radius: 1em; }
-    .page.broadcasts .broadcast .media .social-slides:focus, .page.broadcasts .broadcast .media .social-slides:active, .page.broadcasts .broadcast .media .social-slides:hover {
+    .page.broadcasts .talk .media .social-slides:focus, .page.broadcasts .talk .media .social-slides:active, .page.broadcasts .talk .media .social-slides:hover {
       box-shadow: 0.0625em 0.0625em 0.125em var(--darken-3); }
-    .page.broadcasts .broadcast .media .social-slides svg {
+    .page.broadcasts .talk .media .social-slides svg {
       max-width: 2ch; }
 
 @media (max-width: 59.99em) {
-  .page.broadcasts .broadcast {
+  .page.talks .talk {
     grid-template-columns: 1fr; }
-  .page.broadcasts .broadcast .speakers {
+  .page.broadcasts .talk .speakers {
     float: unset; } }
 
 .section.sessions ul.talks, .taxonomy.tags ul.talks {
