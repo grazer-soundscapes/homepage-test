@@ -3,7 +3,7 @@ key: christine_braunersreuther
 name: Christine Braunersreuther
 id: christine_braunersreuther
 feature: true
-photoURL: /images/team/christine_braunersreuther.jpg
+photoURL: /images/artists/christine_braunersreuther.jpg
 socials:
 #  - icon: twitter
 #    link: 'https://twitter.com/'

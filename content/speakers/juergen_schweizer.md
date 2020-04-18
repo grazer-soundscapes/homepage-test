@@ -3,7 +3,7 @@ key: juergen_schweizer
 name: Jürgen Schweizer
 id: juergen_schweizer
 feature: false
-photoURL: /images/team/oe6jue.jpg
+photoURL: /images/artists/oe6jue.jpg
 company: Radio Helsinki
 socials:
   - icon: github

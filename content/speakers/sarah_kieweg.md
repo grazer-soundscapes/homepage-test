@@ -3,7 +3,7 @@ key: sarah_kieweg
 name: Sarah Kieweg
 id: sarah_kieweg
 feature: true
-photoURL: /images/team/Sarah_Kieweg.JPG
+photoURL: /images/artists/Sarah_Kieweg.JPG
 socials:
 #  - icon: twitter
 #    link: 'https://twitter.com/'

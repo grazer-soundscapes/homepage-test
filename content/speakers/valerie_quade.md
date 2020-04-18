@@ -4,7 +4,7 @@ name: Valerie Quade
 id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
 feature: true
 company: 
-photoURL: /images/team/Quade_Valerie.jpg
+photoURL: /images/artists/Quade_Valerie.jpg
 socials:
 #  - icon: twitter
 #    link: 'https://twitter.com/'
