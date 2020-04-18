@@ -211,6 +211,16 @@
   }
 }
 
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+
+
 @supports (grid-template-columns: repeat(auto-fit,minmax(25vmin,1fr))) {
   .home main .info .numbers {
     justify-content: center;
