@@ -181,7 +181,7 @@
     .map {
       display: block;
       background-repeat: no-repeat;
-      height: 350px;
+      height: 400px;
       background-position: center center;
       background-size: contain;
     }
@@ -189,7 +189,7 @@
     .description {
       display: inline-block;
       padding: var(--space-4);
-      width: 400px;
+      width: 150px;
       position: absolute;
       bottom: 2rem;
       right: 2rem;

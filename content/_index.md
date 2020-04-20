@@ -55,8 +55,10 @@ Grazer Soundscapes ist das Projekt von Radio Helsinki im Rahmen von Graz Kulturj
 
 {{% home-contribute
     image="/images/album/Soundscapes_Aufruf.png"
+    url="./press/corona-edition"
  %}}
-
+# Corona-Edition
+Geräusche von zu Hause
 
 {{% /home-contribute %}}
 
