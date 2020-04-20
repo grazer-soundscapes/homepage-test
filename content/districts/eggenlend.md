@@ -4,7 +4,7 @@ name: EggenLend
 id: XDO4bqPAuJRWnEAJtNW9bCg09el
 feature: true
 website: https://www.wiki.at/Gemeinwesen/STA-EggenLend/
-city: 'Graz, AT'
+city:
 photoURL: /images/districts/STA-Vorplatz.jpg
 country: 'Graz, AT'
 socials:
