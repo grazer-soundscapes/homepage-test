@@ -1,7 +1,7 @@
 ---
 title: Soundscape der Woche (#12)
 cbaId: 449897
-description: Innenhofleben Geidorf
+description: Sandgasse, Graz
 category: ssdw
 language: German
 tags:
