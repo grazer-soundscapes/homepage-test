@@ -12,7 +12,7 @@ speakers:
   - valerie_quade
 draft: false
 ---
-Alles um uns herum ist gestaltet. Auch Klänge sind es. Seit tausenden von Jahren formt sich der Mensch seine akustische Umwelt. Was macht diese Umwelt aus? Wo entstehen Klänge? Sind alle lauten Geräusche Lärm, stehen sie für Macht? Wie klingt unsere Zukunft? Mit Hilfe von Akustikerinnen, Produktsounddesignern, Toningenieuren, Hörgeräteakustikern, Künstlern, einem Professor für Theologie und einem Klangarchivar taucht dieses Radiospiel in die Tiefen der gestalteten Schallwelt ein.
+Alles um uns herum ist gestaltet. Auch Klänge sind es. Seit tausenden von Jahren formt sich der Mensch seine akustische Umwelt. Was macht diese Umwelt aus? Wo entstehen Klänge? Sind alle lauten Geräusche Lärm, stehen sie für Macht? Wie klingt unsere Zukunft? Mit Hilfe von Akustiker_innen, Produktsounddesigner_innen, Toningenieur_innen, Hörgeräteakustiker_innenn, Künstler_innen, einem Professor für Theologie und einem Klangarchivar taucht dieses Radiospiel in die Tiefen der gestalteten Schallwelt ein.
 
 ## KLANG LEBEN
 ### Die Schallwelt, die uns umgibt (gekürzte Fassung)
