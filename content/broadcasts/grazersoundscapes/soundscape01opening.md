@@ -18,9 +18,7 @@ presentation:
 draft: false
 ---
 
-Das ist die Auftaktsendung der Sendereihe Grazer Soundscapes. Diese Sendereihe versammelt Eindrücke der verschiedenen Ergebnisse des Projekts Grazer Soundscapes von Radio Helsinki im Rahmen des Kulturjahres Graz 2020 und begleitet dieses somit als Querschnittsprojekt.
-
-Ein Teilprojekt ist die Veranstaltungsreihe „Soundscapes im Gespräch“, in deren Rahmen am 25. Januar 2020 das erste Funkhausgespräch im Foyer von Radio Helsinki stattfand. Aus diesem bringen wir in dieser ersten Sendung Ausschnitte aus der Diskussionsrunde rund um die Frage „Wie klingt die Stadt“?.
+Die Auftaktsendung der Sendereihe Grazer Soundscapes bildet eine Aufnahme der Eröffnungsdiskussion der Veranstaltungsreihe „Soundscapes im Gespräch“, in deren Rahmen am 25. Januar 2020 das erste Funkhausgespräch im Foyer von Radio Helsinki stattfand. Wir bringen in dieser ersten Sendung Ausschnitte aus der Diskussionsrunde rund um die Frage „Wie klingt die Stadt“?.
 
 Hat eine Stadt, hat ein Ort, hat mein Ort einen Klang? Wenn ja – Wie hört sich er an und kann er als Soundscape beschrieben und wiedergegeben werden? Es soll den grundsätzlichen Fragen der Klangwahrnehmung nachgegangen werden: Was empfinden wir als Klang, ab wann empfinden wir es als Lärm? Nehmen unterschiedliche Menschen die akustische Umwelt unterschiedlich wahr – und nicht zuletzt: Wie können solche Klangwahrnehmungen in Form von Soundscapes für andere Menschen hörbar gemacht werden?
 
@@ -34,5 +32,5 @@ Hat eine Stadt, hat ein Ort, hat mein Ort einen Klang? Wenn ja – Wie hört sic
 ## Moderation
 Dip. Museol. (FH) Christine Braunersreuther
 
-Die Funkhausgespräche sind Reflexionsrunden durch Expert*innen, die das Kulturjahr-Projekt „Grazer Soundscapes“ von Radio Helsinki im Funkhaus von Radio Helsinki und später gesendet auf 92.6 Mhz begleiten.
+Die Funkhausgespräche sind Reflexionsrunden durch Expert_innen, die das Kulturjahr-Projekt „Grazer Soundscapes“ von Radio Helsinki im Funkhaus von Radio Helsinki und später gesendet auf 92.6 Mhz begleiten.
 
