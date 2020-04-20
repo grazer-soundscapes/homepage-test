@@ -1041,7 +1041,8 @@ form input {
   font-weight: 300; }
   .home main .location .map {
     display: block;
-    height: 664px;
+    background-repeat: no-repeat;
+    height: 350px;
     background-position: center center;
     background-size: contain; }
   .home main .location .description {
