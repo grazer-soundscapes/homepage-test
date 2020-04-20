@@ -1,7 +1,7 @@
 ---
 key: funkhausgespraech
 title: Funkhausgespräch
-description: Auftaktsendung der Sendereihe Grazer Soundscapes
+description: Wie klingt die Stadt? Auftaktveranstaltung zur Eröffnung des Kulturjahrs.
 id: iU4EzEThVDvpaHDsGjO
 language: German
 format: keynote
