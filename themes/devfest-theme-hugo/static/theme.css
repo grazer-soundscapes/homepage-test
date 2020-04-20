@@ -1037,13 +1037,13 @@ form input {
 .home main .location {
   padding: 0;
   position: relative;
-  background: var(--darken-1);
+  background: var(--primary);
   font-weight: 300; }
   .home main .location .map {
     display: block;
     height: 664px;
     background-position: center center;
-    background-size: cover; }
+    background-size: contain; }
   .home main .location .description {
     display: inline-block;
     padding: var(--space-4);
@@ -2292,6 +2292,8 @@ img[src$='#center'] {
     text-align: justify;
     margin-bottom: 1.5rem;
     line-height: 1.7rem; }
+  .page.press .content a {
+    color: var(--primary-txt); }
   .page.press .content ul {
     margin-left: 1rem; }
     .page.press .content ul li {

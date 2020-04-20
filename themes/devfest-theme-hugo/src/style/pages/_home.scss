@@ -175,14 +175,14 @@
   .location {
     padding: 0;
     position: relative;
-    background: var(--darken-1);
+    background: var(--primary);
     font-weight: 300;
 
     .map {
       display: block;
       height: 664px;
       background-position: center center;
-      background-size: cover;
+      background-size: contain;
     }
 
     .description {
