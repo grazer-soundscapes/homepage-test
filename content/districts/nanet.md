@@ -7,9 +7,9 @@ company:
 city: 
 photoURL: /images/districts/nanet.jpg
 socials:
-#  - icon: twitter
-#    link: 'https://twitter.com/'
-#    name: twitter
+#  - icon: link
+#    link: 'https://'
+#    name: link
   - icon: facebook
     link: 'https://www.facebook.com/NaNetFlosslend/'
     name: 

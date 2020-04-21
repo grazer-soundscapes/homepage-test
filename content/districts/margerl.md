@@ -10,7 +10,7 @@ shortBio: shorttext
 companyLogo: /images/districts/company/YYY.jpg
 country: 'Graz, AT'
 socials:
-  - icon: web
+  - icon: link
     link: 'https://www.margerl.at'
     name: https://www.margerl.at
 #  - icon: github

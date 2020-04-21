@@ -3,20 +3,16 @@ key: denggenhof
 name: Stadtteilprojekt Denggenhof
 id: XDO4bqPAuJRWnEAJtNW9bCg0dh
 feature: true
-website: www.stadtteilarbeit-denggenhof.at
 city: 
 photoURL: /images/districts/denggenhof.jpg
 picURL1: /images/districts/denggenhof_1_800.jpg
 picURL2: /images/districts/denggenhof_2_800.jpg
 shortBio: shorttext
-country: 'Graz, AT'
+country: 
 socials:
-#  - icon: twitter
-#    link: 'https://twitter.com/'
-#    name: clement0210
-#  - icon: github
-#    link: 'https://github.com/'
-#    name: clement0210
+  - icon: link
+    link: 'https://www.stadtteilarbeit-denggenhof.at'
+    name: www.stadtteilarbeit-denggenhof.at
 ---
 # Empowerment & Sustainability
 Das Stadtteilprojekt Denggenhof wurde 1999 von einer interdisziplinären Arbeitsgruppe (Architektur, Landschaftsplanung, Psychologie) als erstes Grazer Stadtteilprojekt in einer sanierungsbedürftigen Siedlung (Denggenhofsiedlung) aus den 40-er Jahren initiiert und in den folgenden Jahren auf den umgebenden Stadtteil ausgedehnt. 

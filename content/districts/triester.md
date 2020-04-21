@@ -3,18 +3,17 @@ key: triester
 name: Stadtteilzentrum Triester
 id: XDO4bqPAuJRWnEAJtNW9bCg09t
 feature: true
-website: https://www.stadtteilzentrum-graz.at/
 city: 
 photoURL: /images/districts/triester.png
 shortBio: shorttext
 country: 'Graz, AT'
 socials:
-#  - icon: twitter
-#    link: 'https://twitter.com/'
-#    name: clement0210
+  - icon: link
+    link: 'https://www.stadtteilzentrum-graz.at/'
+    name: https://www.stadtteilzentrum-graz.at/
 #  - icon: github
 #    link: 'https://github.com/'
-#    name: clement0210
+#    name: 
 ---
 Das Stadtteilzentrum Triester - initiiert und organisiert vom Verein ILLUSIONS - bietet Bewohner_innen der Siedlungen rund um die Triester Straße seit 2010 einen Raum für Kommunikation und gemeinsame Aktivitäten.
 

@@ -3,17 +3,16 @@ key: eggenlend
 name: EggenLend
 id: XDO4bqPAuJRWnEAJtNW9bCg09el
 feature: true
-website: https://www.wiki.at/Gemeinwesen/STA-EggenLend/
 city:
 photoURL: /images/districts/STA-Vorplatz.jpg
 country: 'Graz, AT'
 socials:
+  - icon: link
+    link: 'https://www.wiki.at/Gemeinwesen/STA-EggenLend/'
+    name: https://www.wiki.at/Gemeinwesen/STA-EggenLend/
   - icon: facebook
     link: 'https://www.facebook.com/staeggenlend/'
     name: EggenLend
-#  - icon: github
-#    link: 'https://github.com/'
-#    name: clement0210
 ---
 ## Hintergrund & Basis
 
