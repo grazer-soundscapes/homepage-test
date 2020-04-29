@@ -3,6 +3,7 @@ key: sarah_kieweg
 name: Sarah Kieweg
 id: sarah_kieweg
 feature: true
+company: Radio Helsinki
 photoURL: /images/artists/Sarah_Kieweg.JPG
 socials:
 #  - icon: twitter

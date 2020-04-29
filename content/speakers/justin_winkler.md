@@ -3,7 +3,7 @@ key: justin_winkler
 name: Justin Winkler
 id: y0wL4Q9ZnxdOvpCvlaejITZcJW
 feature: true
-company: 
+company: Radio Helsinki
 photoURL: /images/artists/justin_winkler.jpg
 socials:
 #  - icon: twitter
