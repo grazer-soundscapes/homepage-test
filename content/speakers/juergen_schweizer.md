@@ -12,10 +12,10 @@ socials:
 ---
 # Technik
 
-Jürgen Schweizer ist Wirtschaftsingenieur und studierte Toningenieur an der TUG/KUG. Schon seit der Schulzeit als Tonmeister beim ORF tätig, später auch mit eigener Produktionsfirma als Programmzulieferer für die EBU.
+Jürgen Schweizer ist Wirtschaftsingenieur und studierte Toningenieur an der TUG/KUG. Schon neben der Schule als Tonmeister beim ORF tätig, später auch mit eigener Produktionsfirma als Programmzulieferer für die EBU.
 
 
-Ausbildungsleiter beim Österreichischen Versuchssenderverband und wird vom Bundesministerium für Innovation und Technologie als Prüfer für fernmeldebehördliche Angelegenheiten eingesetzt.
+Ausbildungsleiter beim Österreichischen Versuchssenderverband und wird vom Bundesministerium für Innovation und Technologie als Prüfer eingesetzt.
 
 
 Genossenschaftsvorsitzender der World Privacy and Identity Cooperative.
