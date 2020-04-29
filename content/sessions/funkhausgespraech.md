@@ -10,6 +10,7 @@ tags:
 level: beginner
 speakers:
   - christine_braunersreuther
+  - justin_winkler
 cbaId: 443866
 presentation: 
 draft: false

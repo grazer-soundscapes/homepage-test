@@ -11,6 +11,7 @@ tags:
   - Soundscapes
 speakers:
   - martin_rumori
+  - justin_winkler
 draft: false
 ---
 

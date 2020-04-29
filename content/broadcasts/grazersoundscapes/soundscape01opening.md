@@ -14,6 +14,7 @@ tags:
   - Sendung
 speakers:
   - margarethe_maierhofer-lischka
+  - justin_winkler
 presentation: 
 draft: false
 ---

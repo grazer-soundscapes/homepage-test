@@ -9,6 +9,7 @@ tags:
 format: keynote
 speakers:
   - sarah_kieweg
+  - justin_winkler
 draft: false
 ---
 Die Soundscape dieser Woche bringt erneut eine Variation von Wasser: Es regnet.
