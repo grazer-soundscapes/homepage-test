@@ -1,7 +1,7 @@
 ---
 title: Soundscape der Woche (#20)
-cbaId: 456213
-description: 456209
+cbaId: 456209
+description: Marienhütte
 category: ssdw
 language: German
 tags:

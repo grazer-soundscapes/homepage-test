@@ -1,7 +1,7 @@
 ---
 title: Soundscape der Woche (#19)
-cbaId: 456213
-description: 456211
+cbaId: 456211
+description: Am Lagerfeuer
 category: ssdw
 language: German
 tags:
@@ -11,7 +11,6 @@ speakers:
   - sarah_kieweg
 draft: false
 ---
-##Soundscape der Woche
 Die Soundscape dieser Woche fängt frühsommerliche Abendstimmung ein.
 
 Gestaltung: Sarah Kieweg
