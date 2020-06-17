@@ -4,7 +4,7 @@ cbaId: 454949
 description: Soundscapes aus der Quarantäne
 category: broadcast
 language: German
-weight: 07
+weight: 08
 tags:
   - Soundscapes
   - Sendung
@@ -14,8 +14,6 @@ speakers:
 draft: false
 ---
 ##  Wenn man schon nicht körperlich reisen kann, so doch zumindest mit den Ohren.
-
-
 
 Auch das Projekt Grazer Soundscapes ging in den letzten Wochen aufgrund des eingeschränkten gesellschaftlichen Lebens gezwungen neue Wege. Nun, da auch die Grazer Stadtteilzentren und Nachbarschaftsinitiativen, die als wichtige Partner im Projekt agieren, langsam wieder erwachen, wurde es Zeit, die Zusammenarbeit wieder aufzunehmen. Nach unserer letzten Sendung, in der wir uns international orientiert haben, kehren wir also zurück in die Grazer Grätzln.
 
