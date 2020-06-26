@@ -4,7 +4,7 @@ name: EggenLend
 id: XDO4bqPAuJRWnEAJtNW9bCg09el
 feature: true
 city:
-photoURL: /images/districts/STA-Vorplatz.jpg
+photoURL: /static/images/districts/STA-Vorplatz.jpg
 country: 'Graz, AT'
 socials:
   - icon: link
