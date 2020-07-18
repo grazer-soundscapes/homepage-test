@@ -1,5 +1,5 @@
 ---
-title: Corona-Edition
+title: Corona-Edition Update
 brief: Helfen Sie mit, ein Klangbild der veränderten Stadt zu erstellen! 
 image: /images/blog/sc_logo.png
 date: 2020-07-15
@@ -16,7 +16,7 @@ Helfen Sie mit, ein Klangbild der veränderten Stadt zu erstellen! Denn Klänge 
 
 Sie möchten Ihre Alltags-Klänge ins Radio bringen? Wir freuen uns über Ihre 5-Minuten-Aufnahme mit Kurzbeschreibung der Szene, Aufnahmeort und -zeit. Ob Sie auch namentlich genannt werden möchten, entscheiden Sie. Wenn Sie Aufnahmen machen oder bereits gemachte schicken wollen, schreiben Sie an: soundscapes2020@helsinki.at
 
-Zu hören sind diese Audiodokumente täglich um 12:00 (wöchentlich wechselnd) im Format „Soundscape der Woche“ auf Radio Helsinki 92.6 oder unter https://www.helsinki.at/livestream und werden auf unserem Archiv im Podcast-Format veröffentlicht.
+Zu hören sind diese Audiodokumente täglich um 12:00 (wöchentlich wechselnd) im Format „Soundscape der Woche“ auf Radio Helsinki 92.6 oder unter https://live.helsinki.at und werden auf unserem Archiv im Podcast-Format veröffentlicht.
 
 - Soundscape der Woche-Archiv: https://cba.fro.at/series/soundscape-der-woche-grazer-soundscapes
 - Grazer Soundscapes Sendungsarchiv: https://cba.fro.at/series/grazer-soundscapes
