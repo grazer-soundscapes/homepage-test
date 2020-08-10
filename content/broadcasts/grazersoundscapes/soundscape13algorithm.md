@@ -4,7 +4,7 @@ cbaId: 461633
 description: Grazer Soundscapes
 category: broadcast
 language: German
-weight: 12
+weight: 13
 tags:
   - Soundscapes
   - Sendung
