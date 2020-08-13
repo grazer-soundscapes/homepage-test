@@ -9,7 +9,7 @@ tags:
   - _lärm_
 level: beginner
 speakers:
-  - cyril_delmas
+  - Justin Winkler
 videoId: 
 presentation: 
 draft: false
