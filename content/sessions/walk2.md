@@ -1,3 +1,4 @@
+---
 key: walk2
 title: Soundwalk im Denggenhof
 description: Soundwalk im Denggenhof
