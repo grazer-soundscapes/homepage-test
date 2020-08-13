@@ -31,4 +31,4 @@ Aufnahmetechnik-Workshop - doch dann kam coronabedingt alles anders.
 Aber das Stadtteilzentrum Denggenhof hat nicht geschlafen. Laufend
 wurden uns Aufnahmen zugeschickt, die teilweise auch schon gesendet
 wurden. Was alles in diesen Wochen passiert ist, werden wir heute in
-dieser Sendung präsentieren. Ohren auf!
+dieser Sendung präsentieren. Ohren auf! 
