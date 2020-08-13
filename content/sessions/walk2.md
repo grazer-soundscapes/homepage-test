@@ -13,7 +13,7 @@ speakers:
   - adele_knall
 videoId: 
 presentation: 
-draft: true
+draft: false
 ---
 
 Soundwalk im Denggenhof
