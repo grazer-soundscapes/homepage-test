@@ -1,5 +1,5 @@
-key: walk
-title: Walk
+key: walk2
+title: Soundwalk im Denggenhof
 description: Soundwalk im Denggenhof
 id: U4EzEThVDvpaHDsGjO
 language: German
