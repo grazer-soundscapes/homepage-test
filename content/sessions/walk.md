@@ -9,7 +9,7 @@ tags:
   - _lärm_
 level: beginner
 speakers:
-  - Justin Winkler
+  - justin_winkler
 videoId: 
 presentation: 
 draft: false
