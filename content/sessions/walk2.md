@@ -16,7 +16,8 @@ presentation:
 draft: false
 ---
 
-Soundwalk im Denggenhof
+### Soundwalk im Denggenhof
+xx.x, xx:xx Uhr
 
 Die heutige Sendung wurde gemeinsam mit Besucher*innen des
 Stadtteilzentrum Denggenhof gestaltet. Die Künstler*innen Adele Knall
