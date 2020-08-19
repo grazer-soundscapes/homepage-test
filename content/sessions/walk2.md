@@ -2,7 +2,7 @@
 key: walk2
 title: Soundwalk im Denggenhof
 description: Soundwalk im Denggenhof
-id: U4EzEThVDvpaHDsGjO
+id: U4EzEThVDvpaHDsGj
 language: German
 format: walk
 tags:
@@ -13,7 +13,7 @@ speakers:
   - adele_knall
 videoId: 
 presentation: 
-draft: true
+draft: false
 ---
 
 Die Künstler*innen Adele Knall und Tobias Dankl haben bereits vor dem Lock-Down intensiv mit dem STZ Denggenhof kooperiert und waren mehrmals vor Ort, um die Menschen zum Mitmachen einzuladen. Es wurden ein Klangspaziergang unternommen und weitere Pläne geschmiedet - wie zum Beispiel für einen Aufnahmetechnik-Workshop - doch dann kam coronabedingt alles anders. Aber das Stadtteilzentrum Denggenhof hat nicht geschlafen. Laufend wurden uns Aufnahmen zugeschickt. Ohren auf! 
@@ -21,4 +21,5 @@ Die Künstler*innen Adele Knall und Tobias Dankl haben bereits vor dem Lock-Down
 ![image](/images/sessions/tobias-dankl-1.jpg)
 ![image](/images/sessions/tobias-dankl-2.jpg)
 ![image](/images/sessions/tobias-dankl-3.jpg)
+
 Tobias Dankl, 2020

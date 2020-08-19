@@ -2,7 +2,7 @@
 key: workshop1
 title: Workshop
 description: Soundwalk im Denggenhof
-id: U4EzEThVDvpaHDsGjO
+id: U4EzEThVDvpaHDsG
 language: German
 format: walk
 tags:
