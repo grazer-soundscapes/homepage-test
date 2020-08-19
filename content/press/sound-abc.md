@@ -2,7 +2,7 @@
 title: Unser "Klang-Alphabet" - Aufruf zum Mitmachen für Kinder!
 brief: Grazer Soundscapes
 image: /images/blog/klang-abc.jpg
-date: 2020-03-28
+date: 2020-08-19
 draft: false
 ---
 
