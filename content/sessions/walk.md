@@ -12,7 +12,7 @@ speakers:
   - xxxx
 videoId: 
 presentation: 
-draft: false
+draft: true
 ---
 
 
