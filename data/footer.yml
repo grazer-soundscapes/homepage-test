@@ -24,8 +24,8 @@ content:
 #        url: /kit/MediaKit.zip
 #        newTab: false
       - name: Impressum, Kontakt
-        url: /contact/
-        newTab: false
+        url: https://helsinki.at/impressum
+        newTab: true
 
   - title: footer_previous_edition
     links:
