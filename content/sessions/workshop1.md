@@ -1,6 +1,6 @@
 ---
-key: workshop1
-title: Workshop
+key: workshop1_kids
+title: Radioworkshop für Kinder
 description: Soundwalk im Denggenhof
 id: U4EzEThVDvpaHDsG
 language: German
@@ -9,21 +9,14 @@ tags:
   - _lärm_
 level: beginner
 speakers:
-  - tobias_dankl
-  - adele_knall
+  - Valerie Quade
 videoId: 
 presentation: 
-draft: true
+draft: false
 ---
+##Klänge entdecken & aufnehmen
 
-### Workshoptermine Grazer Soundscapes
+am 25.08.2020; 15:30 im Nachbarschaftszentrum St.Peter. 
 
-* Triester: Jour Fixe mittwochs, 13:30
-* Denggenhof: Klangspaziergang, Fr 17.7.
-* Büro der Nachbarschaft: Mo 29.6. 17:00 Uhr und Di  29.6. 16:30 Live mit Dario Luisi im Rahmen seiner Sendung „Emigranti“
-* Grätzelinitiative Margerl: Klangspaziergänge. Termine tba
-* StA EggenLend: Do 2.7., 17:30 und Di 7.7., 17:30
-* St. Peter: mittwochs 15:30 – im Rahmen der Eltern (OmaOpa...)-Kind-Gruppe
-* NaNet Floßlend: ab Mitte Juli im Hof vom Gemeindebau offenes Angebot für Kinder
-
+Anmeldung unter valerie.quade@web.de oder 0676/ 5777140
 
