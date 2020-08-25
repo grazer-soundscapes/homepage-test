@@ -1,7 +1,7 @@
 ---
 key: workshop1_kids
-title: Klänge entdecken & aufnehmen
-description: Radioworkshop für Kinder - Teil 1
+title: Radioworkshop für Kinder
+description: Teil 1: Klänge entdecken & aufnehmen
 id: U4EzEThVDvpaHDsG
 language: German
 format: walk
