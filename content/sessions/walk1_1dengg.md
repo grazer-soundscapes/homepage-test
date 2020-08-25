@@ -1,6 +1,6 @@
 ---
-key: walk
-title: Klangsparziergänge in der Triestersiedlung
+key: walk1
+title: 1.Denggenhofer Soundwalk
 description:
 id: U4EzEThVDvpaHDsGjO
 language: German
