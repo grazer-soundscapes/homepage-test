@@ -9,12 +9,12 @@ tags:
   - _lärm_
 level: beginner
 speakers:
-  - Valerie Quade
+  - valerie quade
 videoId: 
 presentation: 
 draft: false
 ---
-##Klänge entdecken & aufnehmen
+## Klänge entdecken & aufnehmen
 
 am 25.08.2020; 15:30 im Nachbarschaftszentrum St.Peter. 
 
