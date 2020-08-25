@@ -9,14 +9,14 @@ tags:
   - _lärm_
 level: beginner
 speakers:
-  - valerie quade
+  - valerie_quade
 videoId: 
 presentation: 
 draft: false
 ---
-## Klänge entdecken & aufnehmen
-
-am 25.08.2020; 15:30 im Nachbarschaftszentrum St.Peter. 
+### Klänge entdecken & aufnehmen
+25.8., 15:30 Uhr 
+Nachbarschaftszentrum St.Peter, Hauptstraße 85
 
 Anmeldung unter valerie.quade@web.de oder 0676/ 5777140
 
