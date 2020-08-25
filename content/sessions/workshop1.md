@@ -1,7 +1,7 @@
 ---
 key: workshop1_kids
-title: Radioworkshop für Kinder
-description: Soundwalk im Denggenhof
+title: Klänge entdecken & aufnehmen
+description: Radioworkshop für Kinder - Teil 1
 id: U4EzEThVDvpaHDsG
 language: German
 format: walk
@@ -14,7 +14,7 @@ videoId:
 presentation: 
 draft: false
 ---
-### Klänge entdecken & aufnehmen
+
 25.8., 15:30 Uhr 
 Nachbarschaftszentrum St.Peter, Hauptstraße 85
 
