@@ -3,7 +3,7 @@ title: Unser "Klang-Alphabet" - Aufruf zum Mitmachen für Kinder!
 brief: Grazer Soundscapes
 image: /images/blog/klang-abc.jpg
 date: 2020-08-18
-draft: true
+draft: false
 ---
 
 "Unser Klang-Alphabet", das sind Geräusche, die du jeden Tag hörst und die du anderen zeigen möchtest. 
