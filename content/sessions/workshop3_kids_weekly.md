@@ -1,15 +1,14 @@
 ---
-key: workshop3_kids_weekly
-title: Eltern-Kind Gruppe
-description: Teil 1: 
+key: workshop
+title: Eltern Kind Gruppe
+description: Teil 1
 id: U4EzEThVDvpaHDsG
 language: German
 format: workshop
 tags:
-  - 
+  - workshops
 level: beginner
 speakers:
-  - 
 videoId: 
 presentation: 
 draft: false

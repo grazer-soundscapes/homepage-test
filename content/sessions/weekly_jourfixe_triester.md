@@ -1,11 +1,12 @@
 ---
 key: workshop3weekly
-title: Eltern Kind Gruppe
+title: Eltern-Kind Gruppe
 description:
 id: U4EzEThVDvpaHDsG
 language: German
-format: workshop
+format: keynote
 tags:
+  - _lärm_
 level: beginner
 speakers:
   - walther_moser
