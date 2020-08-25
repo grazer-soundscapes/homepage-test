@@ -1,15 +1,14 @@
 ---
-key: workshop3_kids_weekly
-title: Eltern-Kind Gruppe
-description: Teil 1: 
+key: workshop3weekly
+title: Eltern Kind Gruppe
+description:
 id: U4EzEThVDvpaHDsG
 language: German
 format: workshop
 tags:
-  - walther_moser
 level: beginner
 speakers:
-  - 
+  - walther_moser
 videoId: 
 presentation: 
 draft: false
