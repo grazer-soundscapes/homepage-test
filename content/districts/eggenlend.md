@@ -36,8 +36,8 @@ Ein Ziel ist also nicht zuletzt eine soziale und politische Teilhabefunktion.
 * Siedlungsbetreuung im Sozialen Wohnbau
 
 Öffnungszeiten/ Sprechstunden des Stadtteilbüros
-* Montag: 13.00-15.00 Uhr
-* Donnerstag: 10.00-12.00 Uhr
+* Dienstag: 10.00-12.00 Uhr
+* Donnerstag: 16.00-18.00 Uhr
 
 ## KostNIX-Laden WIKI Stadtteilprojekt Eggenland
 
@@ -51,7 +51,7 @@ Nachhaltigkeit leben und Nachbarschaft stärken ist die Idee hinter dem KostNix-
 
 ### Öffnungszeiten des KostNix-Ladens
 
-Montag - Freitag: jeweils von 15.00-18.00 Uhr
+Montag, Mittwoch, Freitag jeweils von 15.00-18.00 Uhr
 
 Ansprechperson: Mag. Wolfgang Kogler
 
