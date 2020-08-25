@@ -6,10 +6,10 @@ id: U4EzEThVDvpaHDsGjO
 language: German
 format: walk
 tags:
-  - _lärm_
+  - soundwalk
 level: beginner
 speakers:
-  - xxxx
+  - tobias_dankl
 videoId: 
 presentation: 
 draft: true
