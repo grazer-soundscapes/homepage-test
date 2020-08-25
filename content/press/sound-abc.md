@@ -18,7 +18,7 @@ Du kannst alles mit dem Smartphone aufnehmen, was du möchtest. Das Plätschern 
 
 Aus den Aufnahmen wird später eine Radiosendung!
 
-Schicke die Aufnahme an valerie.quade@web.de oder per Whatsapp oder Telegramm an +4915779607658 
+Schicke die Aufnahme an valerie.quade@web.de oder per Whatsapp oder Telegramm an +4915779607658  
 Bei Fragen kannst du dich gerne an diese Kontaktdaten wenden. 
 
 Wir freuen uns auf deine Geräusche! 
