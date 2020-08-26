@@ -13,7 +13,7 @@ speakers:
   - martin_rumori
 cbaId: 
 presentation: 
-draft: false
+draft: true
 ---
 
 26.8., xx:xx Uhr
