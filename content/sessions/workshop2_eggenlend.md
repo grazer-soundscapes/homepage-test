@@ -11,7 +11,7 @@ level: beginner
 speakers:
   - rivka_saltiel
   - martin_rumori
-cbaId: 443866
+cbaId: 
 presentation: 
 draft: false
 ---
