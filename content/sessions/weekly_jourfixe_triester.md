@@ -12,7 +12,7 @@ speakers:
   - walther_moser
 videoId: 
 presentation: 
-draft: false
+draft: true
 ---
 
 mittwochs, 17:00 Uhr 
