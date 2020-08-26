@@ -11,7 +11,7 @@ level: beginner
 speakers:
 videoId: 
 presentation: 
-draft: false
+draft: true
 ---
 
 mittwochs, 15:30 Uhr 
