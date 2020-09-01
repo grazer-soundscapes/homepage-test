@@ -15,7 +15,7 @@ presentation:
 draft: true
 ---
 
-Der erste Soundwalkwalk im Denggenhof fand am xx von xx bis xx statt. Gestartet wurde im xx.
+Der erste Soundwalkwalk im Denggenhof fand am 12 März statt. von xx bis xx statt. Es war ein erster Soundwalk zum Kennenlernen und außerdem der einzige, der vor dem Lockdown stattfand.
 
 ![image](/images/sessions/tobias-dankl-1.jpg)
 ![image](/images/sessions/tobias-dankl-2.jpg)
