@@ -1,8 +1,8 @@
 ---
 key: walk1
-title:3. Erzählsparziergang
+title: 3. Erzählsparziergang
 description: 14.Juli 2020; Triestersiedlung
-id: U4EzEThVDvpaHDsGjO
+id: U4EzEThVDvpaHDsGj
 language: German
 format: walk
 tags:
