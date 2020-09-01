@@ -22,5 +22,3 @@ draft: true
 ![image](/images/sessions/erzaehlsparziergang4.jpg)
 ![image](/images/sessions/erzaehlsparziergang5.jpg)
 ![image](/images/sessions/erzaehlsparziergang6.jpg)
-
-Tobias Dankl, 2020
