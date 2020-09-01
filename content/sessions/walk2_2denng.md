@@ -10,7 +10,6 @@ tags:
 level: beginner
 speakers:
   - tobias_dankl
-  - adele_knall
 videoId: 
 presentation: 
 draft: true
