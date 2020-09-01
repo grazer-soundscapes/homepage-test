@@ -17,4 +17,4 @@ draft: true
 
 Der zweite Soundwalk im Denggenhof fand am 17.Juli von 15.00-17.00 statt. Gestartet wurde im Siedlungszentrum in der 47-er Gasse 29.
 
-![image](/images/sessions/eggenlend9.jpg)
+![image](/images/sessions/eggenlend7.jpg)
