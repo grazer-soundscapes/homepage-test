@@ -1,6 +1,6 @@
 ---
 key: walk1
-title: 1.Erzählsparziergang
+title: 1. Erzählsparziergang
 description: 19.Juni 2020; Triestersiedlung
 id: U4EzEThVDvpaHDsGjO
 language: German
