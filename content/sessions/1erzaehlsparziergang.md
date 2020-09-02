@@ -12,7 +12,7 @@ speakers:
   - walther_moser
 videoId: 
 presentation: 
-draft: true
+draft: false
 ---
 
 

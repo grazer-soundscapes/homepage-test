@@ -12,7 +12,7 @@ speakers:
   - tobias_dankl
 videoId: 
 presentation: 
-draft: true
+draft: false
 ---
 
 Der erste Soundwalkwalk im Denggenhof fand am 12 März statt. von xx bis xx statt. Es war ein erster Soundwalk zum Kennenlernen und außerdem der einzige, der vor dem Lockdown stattfand.

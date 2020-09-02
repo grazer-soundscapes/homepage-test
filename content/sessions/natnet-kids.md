@@ -13,7 +13,7 @@ speakers:
   - margarethe_maierhofer-lischka
 cbaId: 
 presentation: 
-draft: true
+draft: false
 ---
 
 
