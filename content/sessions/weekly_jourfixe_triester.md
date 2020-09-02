@@ -1,7 +1,9 @@
 ---
 key: workshop3weekly
-title: Eltern-Kind Gruppe
-description:
+title: Jour Fixe in der Triestersiedlung
+description: 
+mittwochs um xx:xx
+Stadtteilzentrum Triester, Triester Straße 66
 id: U4EzEThVDvpaHDsG
 language: German
 format: keynote
@@ -12,10 +14,8 @@ speakers:
   - walther_moser
 videoId: 
 presentation: 
-draft: false
+draft: true
 ---
 
-mittwochs, 17:00 Uhr 
-Stadtteilzentrum Triester, Triester Straße 66
 
-Fotos!
+
