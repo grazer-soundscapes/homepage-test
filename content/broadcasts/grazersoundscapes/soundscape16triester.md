@@ -26,3 +26,10 @@ Mit Bernhard Hufnagel, Peter Brunader und Walther Moser.
 Wir waren auf der Dornschneiderwiese, im Johannispark, im Schwammerlpark, dem Hermann Löhns Garten, dem Kunstgarten und dem Bonsaigarten.
 
 Ein Dankeschön an unsere Gesprächspartnerinnen und Gesprächspartner. Die vollständigen Beiträge zu den Parks und Gärten werden in den kommenden Monaten ausgestrahlt und sind im Podcast des Grazer Soundscape Projekts nachzuhören. Das Soundscape Projekt entsteht im Rahmen des Grazer Kulturjahres 2020 und in Kooperation mit den Grazer Stadtteil-und Nachbarschaftszentren und der Karl-Franzens-Universität Graz.
+
+![image](/images/broadcasts/ss16/01.jpg)
+![image](/images/broadcasts/ss16/02.jpg)
+![image](/images/broadcasts/ss16/03.jpg)
+
+Fotocredits: Walther Moser
+
