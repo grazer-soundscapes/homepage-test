@@ -9,7 +9,7 @@ tags:
   - Soundscapes
   - Sendung
 speakers:
-  - justin_inkler
+  - justin_winkler
   - sarah_kieweg
   - margarethe_maierhofer-lischka
 draft: false
