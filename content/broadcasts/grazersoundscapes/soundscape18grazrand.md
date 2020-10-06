@@ -28,6 +28,6 @@ Fotocredits: Lena Prehal
 
 Fotocredits: Grazrand
 
-![image](/images/broadcasts/ss19/03.jpg)
+![image](/images/broadcasts/ss18/03.jpg)
 
 Fotocredits: Grazrand
