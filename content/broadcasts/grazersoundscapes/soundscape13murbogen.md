@@ -9,7 +9,6 @@ tags:
   - Soundscapes
   - Sendung
 speakers:
-  - justin_winkler
   - sarah_kieweg
 draft: false
 ---
