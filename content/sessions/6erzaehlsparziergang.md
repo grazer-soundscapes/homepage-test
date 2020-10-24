@@ -15,7 +15,8 @@ presentation:
 draft: false
 ---
 
-##Bonsaigarten 
+## Bonsaigarten 
+
 ![image](/images/sessions/6erzaehlsparziergang-bonsaigarten1.jpg)
 ![image](/images/sessions/6erzaehlsparziergang-bonsaigarten2.jpg)
 ![image](/images/sessions/6erzaehlsparziergang-bonsaigarten3.jpg)
@@ -23,7 +24,9 @@ draft: false
 ![image](/images/sessions/6erzaehlsparziergang-bonsaigarten5.jpg)
 ![image](/images/sessions/6erzaehlsparziergang-bonsaigarten6.jpg)
 
-##Kunstgarten 
+
+## Kunstgarten 
+
 ![image](/images/sessions/6erzaehlsparziergang--kunstgarten1.jpg)
 ![image](/images/sessions/6erzaehlsparziergang--kunstgarten2.jpg)
 ![image](/images/sessions/6erzaehlsparziergang--kunstgarten3.jpg)
