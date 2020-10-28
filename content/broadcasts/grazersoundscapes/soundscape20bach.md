@@ -1,5 +1,5 @@
 ---
-title: Was der Bach erzählt & Im Alltäglichen das Wunderbare hören: ein Alltagstageslauf
+title: Was der Bach erzählt & Im Alltäglichen das Wunderbare hören. Ein Alltagstageslauf
 cbaId: 475795
 description: Grazer Soundscapes
 category: broadcast
