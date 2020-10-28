@@ -25,6 +25,7 @@ Während Theresia Moll uns den wilden Außenraum vorführt, nimmt uns Philipp Ho
 Als drittes Element dieser Sendung ist ein Ausschnitt aus dem „Konzert für sieben Schiffshörner und einen Regionalzug“ von Samuel J. Fleiner zu hören, eine Aufnahme von Studierenden des Geographischen Instituts der Universität Basel vom 1. Mai 1993 im Tal des Neckars.
 
 Geräuschedoku im Lockdown
+
 ![image](/images/broadcasts/ss20/01.jpg)
 
 Fotocredits: Phillip Hochegger
