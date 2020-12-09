@@ -26,31 +26,27 @@ Die Vorlesung mit Übung war projektorientiert, die Themenwahl erfolgte entlang 
 
 Zu den Teilleistungen der Lehrveranstaltung gehörten Vierminutenbeobachtungen und die Erhebung einer „Raumzeit“-Erhebung der covidzeitlich veränderten Tagesläufe der Teilnehmer_innen. Die Ergebnisse der Übungen sind jeweils in der Audio-Lehre „Stille Universität“ (auf CBA nachhörbar) kommuniziert worden.
 
-- https://cba.fro.at/446059
-
 ## Stille Universität I
+https://cba.fro.at/446059
 
 Das erste Podcast der Stillen Universität: Wegen des Herunterfahrens des Universitätsbetriebs im Rahmen der Covid-19-Vorsorge gibt Justin Winkler die dritte Einführungslektion seiner Vorlesung mit Übung (Karl Franzens-Universität Graz, 402.496) „Soundscapes Graz: historisch, alltagskulturell und Zukunft gestaltend“ für den 16. März 2020 als Podcast. Die Lehrveranstaltung ist Teil des Projekts „Soundscapes Graz“ von Radio Helsinki in Rahmen des Kulturjahrs 2020 der Stadt Graz.
 
-- https://cba.fro.at/446839
-
 ## Stille Universität II zum Thema Stille
+https://cba.fro.at/446839
 
 Im zweiten Podcast der Stillen Universität, der Lektion vom Montag, 23. März 2020, behandelt Justin Winkler das Thema „Stille“ aus der Perspektive der Soundscape Studies. Die Lektion ist Teil der Vorlesung mit Übung (Karl Franzens-Universität Graz, 402.496) „Soundscapes Graz: historisch, alltagskulturell und Zukunft gestaltend“. Die Lehrveranstaltung ist Teil des Projekts „Soundscapes Graz“ von Radio Helsinki in Rahmen des Kulturjahrs 2020 der Stadt Graz.
 
 Es sprechen Justin Winkler und Vilja Neuwirth
 
-- https://cba.fro.at/447927
-
 ## Stille Universität III: Tonalität
+https://cba.fro.at/447927
 
 Im dritten Podcast der Stillen Universität, der Lektion vom Montag, 30. März 2020, behandelt Justin Winkler das Thema der Tonalität aus der Perspektive der Soundscape Studies. Die Lektion ist Teil der Vorlesung mit Übung (Karl Franzens-Universität Graz, 402.496) „Soundscapes Graz: historisch, alltagskulturell und Zukunft gestaltend“. Die Lehrveranstaltung ist Teil des Projekts „Soundscapes Graz“ von Radio Helsinki in Rahmen des Kulturjahrs 2020 der Stadt Graz.
 
 Es sprechen Justin Winkler und Vilja Neuwirth
 
-- https://cba.fro.at/451685
-
 # Stille Universität IV
+https://cba.fro.at/451685
 Grazer Soundscapes – „Ear Cleaning“: Soundscapes Graz an der KF-Uni Graz
 
 Die Lehrveranstaltung „Soundscapes Graz“ an der Karl-Franzens-Universität unter der Leitung von Justin Winkler ist Teil des Projekts Grazer Soundscapes im Rahmen des Kulturjahrs Graz 2020.
@@ -60,17 +56,15 @@ In dieser Sendung sind die Ergebnisse dieser Übung in pragmatischer und experim
 
 Es sprechen Justin Winkler, Paula Rolshoven und Teilnehmer_innen der Lehrveranstaltung
 
-- https://cba.fro.at/450823
-
 ## Stille Universität V: Signalklänge
+https://cba.fro.at/450823
 
 Im fünften Podcast der Stillen Universität, der Lektion vom Montag, 20. April 2020, behandelt Justin Winkler das Thema der Signalklänge und deren Verhältnis zu Ambiente / Tonalität. Die Lektion ist Teil der Vorlesung mit Übung (Karl Franzens-Universität Graz, 402.496) „Soundscapes Graz: historisch, alltagskulturell und Zukunft gestaltend“. Die Lehrveranstaltung ist Teil des Projekts „Soundscapes Graz“ von Radio Helsinki in Rahmen des Kulturjahrs 2020 der Stadt Graz.
 
 Es sprechen Justin Winkler und Vilja Neuwirth
 
-- https://cba.fro.at/453201
-
 ## Stille Universität VI: Protokollieren und Beschreiben
+https://cba.fro.at/453201
 
 Im sechsten Podcast der Stillen Universität, der Lektion vom Montag, 11. Mai 2020, behandelt Justin Winkler die Frage, wie Aufnahmeserien erfasst und verarbeitet werden können. Die Lektion ist Teil der Vorlesung mit Übung (Karl-Franzens-Universität Graz, 402.496) „Soundscapes Graz: historisch, alltagskulturell und Zukunft gestaltend“. Die Lehrveranstaltung ist Teil des Projekts „Soundscapes Graz“ von Radio Helsinki in Rahmen des Kulturjahrs 2020 der Stadt Graz.
 
