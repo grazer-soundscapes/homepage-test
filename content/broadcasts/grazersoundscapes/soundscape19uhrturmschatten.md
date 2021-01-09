@@ -15,7 +15,7 @@ draft: false
 ---
 In dieser Ausgabe der Sendung Grazer Soundscapes hören Sie zwei Beiträge, gestaltet von Elli Hacker und Hannah Zauner, zwei Akteurinnen aus dem künstlerischen Umfeld des Projekts Grazer Soundscapes.
 
-Akustische Wiedervereinigung des Uhrturmschattens mit seinem Original
+# Akustische Wiedervereinigung des Uhrturmschattens mit seinem Original
 
 Elisabeth Hacker, Studierende des FH Joanneum Lehrgangs Sounddesign, absolvierte kürzlich ein Praktikum bei Radio Helsinki. In diesem Rahmen bekam sie Einblicke in das Projekt „[sch]“ von Künstler Christian F. Schiller.
 
@@ -25,7 +25,7 @@ Elli Hacker präsentiert eine Aufnahme – ein Sommergewitter – aus dem Grazer
 
 ****************************************
 
-Machtverhältnisse in der Geräuschelandschaft von Graz
+# Machtverhältnisse in der Geräuschelandschaft von Graz
 
 Hannah Zauner, Studierende der Umweltsystemwissenschaften mit Fachschwerpunkt Geographie, beschäftigt sich leidenschaftlich mit Sozialgeographie. Im vergangenen Semester absolvierte sie ein Humangeographisches Methodenpraktikum und wählte das Thema „Machtverhältnisse in der Geräuschelandschaft von Graz“. Betreut von Rivka Saltiel, die als Künstlerin im Projekt Grazer Soundscapes agiert, gestaltete sie Beiträge für den Blog „Sozial distanzierte SozialgeographInnen“, wo sie ihre Sound-Aufnahmen in Zeiten des Lockdowns präsentiert und textlich analysiert.
 
