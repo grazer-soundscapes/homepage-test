@@ -36,3 +36,6 @@ zeynep.aygan-romaner@stadtlaborgraz.at
 Kernstockgasse 20
 
 8020 Graz
+
+![image](/images/districts/bdn_2_800.jpg)
+
