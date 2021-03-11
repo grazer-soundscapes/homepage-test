@@ -19,4 +19,4 @@ Jürgen Schweizer ist Wirtschaftsingenieur und studierte Toningenieur an der TUG
 Veranstalter des Amateurfunk Kurs Graz und wird vom Bundesministerium für Innovation und Technologie als Prüfer in der Fernmeldebehörde eingesetzt.
 
 
-Genossenschaftsvorsitzender der World Privacy and Identity Cooperative.
+Genossenschaftsvorsitzender der World Privacy and Identity Cooperative (WPIC).
