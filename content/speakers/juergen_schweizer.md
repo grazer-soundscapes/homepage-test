@@ -16,7 +16,7 @@ socials:
 Jürgen Schweizer ist Wirtschaftsingenieur und studierte Toningenieur an der TUG/KUG. Schon neben der Schule als Tonmeister beim ORF tätig und mit eigener Produktionsfirma als Programmzulieferer für die EBU.
 
 
-Veranstalter des Amateurfunk Kurs Graz und wird vom Bundesministerium für Innovation und Technologie als Prüfer in der Fernmeldebehörde eingesetzt.
+Veranstalter des [Amateurfunk Kurs Graz](https://kurs-graz.at) und wird vom Bundesministerium für Innovation und Technologie als Prüfer in der Fernmeldebehörde eingesetzt.
 
 
-Genossenschaftsvorsitzender der World Privacy and Identity Cooperative (WPIC).
+Genossenschaftsvorsitzender der World Privacy and Identity Cooperative (WPIC)[.](http://bit.ly/oevsv-qsp)
