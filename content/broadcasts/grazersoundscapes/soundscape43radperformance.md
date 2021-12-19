@@ -43,5 +43,5 @@ Die hier verwendete Aufnahme der Performance stammt von Daniel Lercher.
 
 
 ![image](/images/broadcasts/ss43/01.jpg)
-![image](/images/broadcasts/ss43/02.jpg)
+![image](/images/broadcasts/ss43/02.png)
 
